@@ -1,9 +1,18 @@
-/*import { useState } from 'react'*/
-import './styles.global.css'
+import { Routes, Route } from "react-router-dom"
+
+// Componentes
 import Header from './assets/Components/Header'
-import styles from './assets/app.module.css';
 import Livros from './assets/Components/Livros';
 import Sagas from './assets/Components/Sagas';
+import Filmes from "./assets/Components/Filmes";
+import Projeto from "./assets/Components/Projeto";
+import Home from "./assets/Components/Home";
+
+// Css
+import './styles.global.css'
+
+
+
 
 
 function App() {
@@ -11,18 +20,25 @@ function App() {
 
   return (
     <>
-    <div>
+      <div>
 
-         <Header />
-         
-         <div className= {styles.wrapper}>
-  
+        <Header />
+
+        <Routes>
+
+          <Route path="/" element={<Home/>} />
+
+          <Route path="/Livros" element={<Livros/>} />
+
+          <Route path="/Sagas" element={<Sagas/>} />
+
+          <Route path="/Filmes" element={<Filmes/>} />
+
+          <Route path="/Projeto" element={<Projeto/>} />
+
+        </Routes>
+
       </div>
-
-        <Livros />
-        <Sagas />
-
-      </div>       
     </>
   )
 }

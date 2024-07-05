@@ -249,28 +249,28 @@ export default function Livros() {
       </div>
 
       <div className={styles.box}>
-        <a href=""><img src="" alt="" /></a>
-        <h2 className={styles.txtam}></h2>
+        <a href="https://drive.google.com/file/d/1-JqX3WCbOQWmr0iisa0uQIryNF6jrL95/view?usp=sharing"><img src="https://br.web.img3.acsta.net/medias/nmedia/18/90/59/44/20103781.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>As Crônicas de Nárnia</h2>
       </div>
 
       <div className={styles.box}>
-        <a href=""><img src="" alt="" /></a>
-        <h2 className={styles.txtam}></h2>
+        <a href="https://drive.google.com/file/d/1-zx2-ODLEf-JyhpU1ANigT3uPSQ8iW9E/view?usp=sharing"><img src="https://livros.gospelmais.com.br/files/livro-o-problema-da-dor.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>O Problema do Sofrimento </h2>
       </div>
 
       <div className={styles.box}>
-        <a href=""><img src="" alt="" /></a>
-        <h2 className={styles.txtam}></h2>
+        <a href="https://drive.google.com/file/d/1-Y8akeP01HgPJ7rKGOJm5xdVbkdiQpZb/view?usp=sharing"><img src="https://m.media-amazon.com/images/I/51yghA6UWpL.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Os Quatro Amores</h2>
       </div>
 
       <div className={styles.box}>
-        <a href=""><img src="" alt="" /></a>
-        <h2 className={styles.txtam}></h2>
+        <a href="https://drive.google.com/file/d/1-heZXcCFsrUzUbnKUaaXL8aB1gM-MBGG/view?usp=sharing"><img src="https://m.media-amazon.com/images/I/A1qKdjxJYwL._AC_UF1000,1000_QL80_.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Surpreendido pela Alegria</h2>
       </div>
       
       <div className={styles.box}>
-        <a href=""><img src="" alt="" /></a>
-        <h2 className={styles.txtam}></h2>
+        <a href="https://drive.google.com/file/d/1-2btIweJ41A1hFhA884G3iIcPrg8AnQu/view?usp=sharing"><img src="https://www.grandeslivros.com/logos/111-large_default/cartas-de-um-diabo-a-seu-aprendiz-edicao-especial.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>The Screwtape Letters</h2>
       </div>
 
       </div>

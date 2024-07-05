@@ -22,19 +22,19 @@ export default function Sagas() {
 
           <div className={styles.box}>
          <a href="https://drive.google.com/drive/folders/1GGhJiVUsmDcdZvkHugxH80MwuzEDjLTR?usp=drive_link"><img src="https://m.media-amazon.com/images/I/91LzeKCuAGL._AC_UF1000,1000_QL80_.jpg" alt="" /></a>
-          <h2 className={styles.txtam}>Bridgerton</h2>
+          <h2 className={styles.txtam2}>Bridgerton</h2>
           </div>
           <div className={styles.box}>
           <a href="https://drive.google.com/drive/folders/1GTRx2vQkEqmH3wVIGcXoZKo2jntP-MQZ?usp=drive_link"><img src="https://m.media-amazon.com/images/I/71p66yY4htL._AC_UF1000,1000_QL80_.jpg" alt="" /></a>
-          <h2 className={styles.txtam}>Caraval</h2>
+          <h2 className={styles.txtam2}>Caraval</h2>
           </div>
           <div className={styles.box}>
           <a href="https://drive.google.com/drive/folders/1Ais2Lr4eDCzSqDTWX0mhzWeocIZN42zl?usp=sharing"><img src="https://m.media-amazon.com/images/I/81ql6xkkliL._AC_UF1000,1000_QL80_.jpg" alt="" /></a>
-          <h2 className={styles.txtam}>A Seleção</h2>
+          <h2 className={styles.txtam2}>A Seleção</h2>
           </div>
           <div className={styles.box}>
           <a href="https://drive.google.com/drive/folders/19-EySdwc1EJL19MDsNhPsG2OscijLUU9?usp=drive_link"><img src="https://m.media-amazon.com/images/I/81ibfYk4qmL._AC_UF350,350_QL50_.jpg" alt="" /></a>
-          <h2 className={styles.txtam}>Harry Potter</h2>
+          <h2 className={styles.txtam2}>Harry Potter</h2>
         </div>
 
     </div>
@@ -58,7 +58,44 @@ export default function Sagas() {
 
       <div className={styles.box}>
         <a href="https://drive.google.com/drive/folders/1DESoLNpJWMkIITDv9faymaraRasaglNx?usp=sharing"><img src="https://m.media-amazon.com/images/I/81P0wdVAFVL._AC_UF1000,1000_QL80_.jpg" alt="" /></a>
-        <h2 className={styles.txtam}>Entremundos</h2>
+        <h2 className={styles.txtam2}>Entremundos</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/drive/folders/1F4jub2G1D1jQklEejKMgaqD_RdOtE83u?usp=sharing"><img src="https://m.media-amazon.com/images/I/71t558uD09L._AC_UF1000,1000_QL80_.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Estilhaça-me</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/drive/folders/19xohqrbq6KnqKf4g6AuSlszFliCXSrdN?usp=sharing"><img src="https://m.media-amazon.com/images/I/91mqmUaS9QL._AC_UF1000,1000_QL80_.jpg" alt="" /></a>
+        <h2 className={styles.txtam2}>Fallen</h2>
+      </div>
+
+
+
+    </div>
+
+
+    <div className={styles.rows}>
+    
+    <div className={styles.box}>
+        <a href="https://drive.google.com/drive/folders/1CAUzQiSYOqgMP8w_vhn_Ph8zGuCqX1yE?usp=sharing"><img src="https://m.media-amazon.com/images/I/61rzXkz4qAL._AC_UF1000,1000_QL80_.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Jogos Vorazes</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/drive/folders/1JJiBlH6Do6MNvizN8bLy12kcKz0frF-h?usp=sharing"><img src="https://m.media-amazon.com/images/I/71RMRi+OpiL._AC_UF1000,1000_QL80_.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>O Lar da Srta. Peregrine para Crianças Peculiares</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/drive/folders/1AthkvlVYPwy6pi0lhpH-arr3fpTviP-s?usp=sharing"><img src="https://m.media-amazon.com/images/I/91O5ablL3UL._AC_UF1000,1000_QL80_.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Os Artifícios Das Trevas</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/drive/folders/1Dsz_yu76bd0tZk3wgR0sbJNlOS3Vs1Dd?usp=sharing"><img src="https://upload.wikimedia.org/wikipedia/pt/f/fe/The_Mortal_Instruments_-_City_of_Bones_Poster.jpg" alt="" /></a>
+        <h2 className={styles.txtam2}>Os Instrumentos Mortais</h2>
       </div>
 
       <div className={styles.box}>
@@ -70,9 +107,8 @@ export default function Sagas() {
         <a href=""><img src="" alt="" /></a>
         <h2 className={styles.txtam}></h2>
       </div>
-
-
-
+    
+    
     </div>
 
 
