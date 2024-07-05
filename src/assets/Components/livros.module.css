@@ -1,0 +1,82 @@
+.livros {
+
+   display: inline-flex;
+   align-items: center;
+   margin: 30px;
+   gap: 20px;
+   color: var(--roxo--900);
+
+}
+
+.rows {
+
+    display: inline-flex;
+    align-items: center;
+    margin: 30px;
+    gap: 20px;
+    color: var(--roxo--900);
+ 
+ }
+
+.livros2 {
+
+    display: inline-flex;
+    align-items: center;
+    margin: 30px;
+    gap: 20px;
+    color: var(--roxo--900);
+ 
+ }
+
+.txtam{
+
+    font-size: 15px;
+    font-family: 'roboto', arial, helvetica, sans-serif;
+    font-weight: 600;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 20px;
+    
+}
+
+
+.txtam2{
+
+    font-size: 15px;
+    font-family: 'roboto', arial, helvetica, sans-serif;
+    font-weight: 600;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 40px;
+
+    
+}
+
+
+
+.box{
+
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(125, 64, 194) ;
+    width: 275px;
+    height: 200px;
+    border-radius: 8px;
+}
+
+.txt h2{
+    font-size: 15px;
+    font-family: 'roboto', arial, helvetica, sans-serif;
+    font-weight: 600;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 40px;
+}
+
+
