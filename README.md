@@ -1,11 +1,12 @@
-# React + Vite
+# Projeto Independente de 2 estudantes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+O Template é somente para praticarmos nossas habilidades 
 
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Projeto-livros-BBS
 # Projeto-B
 # Projeto-B
+
+Criadores : Babosa e Marlon
