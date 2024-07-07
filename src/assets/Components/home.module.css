@@ -1,15 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Ga+Maamli&display=swap');
 
-.Principal{
+.Principal {
 
-  background-color: var(--roxo--400);
-  border-radius: 20px;
-  color: var(--roxo--800);
   display: flex;
   flex-direction: column;
   align-items: center;
-  height: 80vh;
   font-family: 'Ga Maamli', sans-serif;
+  gap: 24px;
 
 }
 
@@ -17,7 +14,15 @@
 
   display: flex;
   justify-content: center;
+  align-items: center;
   margin-top: 20px;
+  background-color: var(--roxo--400);
+  border-radius: 20px;
+  color: var(--roxo--800);
+  flex-direction: column;
+
+  width: 800px;
+
 
 }
 
@@ -39,9 +44,11 @@
   margin-top: 10px;
 
 }
-.Himg{
+
+.Himg {
 
   width: 500px;
   height: 250px;
+  border-radius: 10px;
 
 }
