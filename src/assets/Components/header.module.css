@@ -1,22 +1,3 @@
-/* .header{
-    background-color: var(--brown--100);
-    display: flex;
-    justify-content: center;
-    height: 80px;
-    padding: 1.25rem;
-    gap:0.5em ;
-    font-family: 'roboto', arial, helvetica, sans-serif;
-}
-
-.header img {
-    height: 2em;
-    border-radius: 90px;
-}
-
-.header strong {
-    padding: 0.975rem;
-} */
-
 
 .header{
     background-color: var(--roxo--800);
