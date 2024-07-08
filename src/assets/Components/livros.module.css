@@ -7,6 +7,15 @@
    color: var(--roxo--900);
 
 }
+.filmes {
+
+    display: inline-flex;
+    align-items: center;
+    margin: 30px;
+    gap: 20px;
+    color: var(--roxo--900);
+ 
+ }
 
 .rows {
 
