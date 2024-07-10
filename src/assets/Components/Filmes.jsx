@@ -118,6 +118,76 @@ export default function Filmes() {
       </div>
 
 
+      <div className={styles.filmes}>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/0BzomfQ1JpFaSaFRmLUI2a2FjeWc/view?usp=sharing&resourcekey=0-6nXbV8cWTg46IXTZZBbdQQ"><img src="https://br.web.img2.acsta.net/medias/nmedia/18/87/31/80/19874256.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Um Sonho possivel</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1SYBknJUVFyWU0oNS4k6MJB56WqaKUyjy/view?usp=sharing"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0_MvSHcDiNSIoDxVeCkmbXwlOVgciXY2nlw&s" alt="" /></a>
+        <h2 className={styles.txtam}>Além Da Morte</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1X_9Oj1sudQe7-fXeQqvR3Xt_Lp2-dhLl/view?usp=sharing"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrMSIjRDDI7GY30L4kyGpQu7Dwq_FnSeAi_Q&s" alt="" /></a>
+        <h2 className={styles.txtam}>Mary Shelley</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1WPG5lqs8ZtlHcAcE8GiIcAOsDgAfHRHW/view?usp=sharing"><img src="https://br.web.img3.acsta.net/pictures/18/04/12/20/25/5720930.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Os Incríveis 2 </h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1P4NrbKy3UtgY0dcHHaQolirBlG8ibzXK/view?usp=sharing"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC5TnQ2ZDaSbMpr3mYIN1t3Nsq6YqN5oSgZQ&s" alt="" /></a>
+        <h2 className={styles.txtam}>P.S. Eu te Amo</h2>
+      </div>
+
+
+
+
+      </div>
+
+
+      <div className={styles.filmes}>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1WgdRG92OIUf_MkLGtJKk1eaX_lW5dj7F/view?usp=sharing"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7ImchtrVwG_9Wbyq9LF-64mThoi70D_Go5A&s" alt="" /></a>
+        <h2 className={styles.txtam}>Logan</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href=""><img src="" alt="" /></a>
+        <h2 className={styles.txtam}></h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href=""><img src="" alt="" /></a>
+        <h2 className={styles.txtam}></h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href=""><img src="" alt="" /></a>
+        <h2 className={styles.txtam}></h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href=""><img src="" alt="" /></a>
+        <h2 className={styles.txtam}></h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href=""><img src="" alt="" /></a>
+        <h2 className={styles.txtam}></h2>
+      </div>
+
+
+
+      </div>
+
+
         <h1>Harry Potter</h1>
       <div className={styles.filmes}>
 
@@ -211,6 +281,158 @@ export default function Filmes() {
       
       </div>
 
+      <h1>Séries</h1>
+      <div className={styles.filmes}>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/drive/folders/1NQLZZUhLVrXFNh2m1BIXgyqC-fLx9hh-?usp=sharing"><img src="https://upload.wikimedia.org/wikipedia/pt/b/b4/This_Is_Us_Temporada_1_Poster.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>This is Us 1ª Temporada</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/drive/folders/1XllWTQEnXdl4YRaiP0fDG1RPRUI0ivOL?usp=sharing"><img src="https://upload.wikimedia.org/wikipedia/pt/b/b8/13_Reasons_Why_Temporada_1_Poster.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>13 Reasons Why - 1 e 2ª Temporada</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/drive/folders/13fmmSSWlP3NAvGu7LVDnyWFqPqbTbvlN?usp=sharing"><img src="https://images.justwatch.com/poster/201762534/s592/temporada-1" alt="" /></a>
+        <h2 className={styles.txtam}>Os Feiticeiros de Waverly Place 1 Temporada</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/drive/folders/1FI0fl2lk994m4kJ4sjQBSk0CfTpUYVf0?usp=sharing"><img src="https://media.fstatic.com/xlF_Yc5_7J57baOhNbN5kkwoehU=/322x478/smart/filters:format(webp)/media/movies/covers/2014/06/sunny-entre-estrelas-1a-temporada_t27056.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Sunny entre estrelas</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://t.co/lcIMInO0o3"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyms5TL2d1z2hU12l_kKwgrKJoKijV5TlSHQ&s" alt="" /></a>
+        <h2 className={styles.txtam}>As visões da Raven (1ª até 4ª) / A casa da Raven (1ª até 3ª)</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/drive/folders/1-4CrRhtoEyaVeApwZBhHD1vJxOBsngK0?usp=sharing"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCj4oh9a5s-mYaUXsO_pI7mpO4-R3tykudsQ&s" alt="" /></a>
+        <h2 className={styles.txtam2}>Skam</h2>
+      </div>
+      
+      </div>
+
+
+
+
+
+
+      <div className={styles.filmes}>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/drive/folders/1nLbh2nphmNy1tKKN1VQiPAMII4JhbWyi?usp=sharing"><img src="https://upload.wikimedia.org/wikipedia/pt/b/b4/DVD_High_School_Musical.JPG" alt="" /></a>
+        <h2 className={styles.txtam}>High School Musical - the musical and the series </h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/drive/folders/1aI9yQFAF5TPWTTF455UJamd6AeDEz5cD?usp=sharing"><img src="https://images.justwatch.com/poster/242800648/s718/temporada-1.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Prison Break 1 Temporada</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/drive/folders/1dBN9LzeBILiJmnYBXzuL_gXPjCPqgKgb?usp=sharing"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtugj9K5ythOfSgM2KOoqvu2RN7t-KBwqf3A&s" alt="" /></a>
+        <h2 className={styles.txtam}>Prison Break 2 Temporada</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/drive/folders/1e-xwuJGc1cDmA5sF3ccQD7DdQLL9v8l2?usp=sharing"><img src="https://m.media-amazon.com/images/I/61SKt+RzsOL._AC_UF894,1000_QL80_.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Prison Break 3 Temporada</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/drive/folders/13VV4CejOYjCSaS_mJsJ_iUN0fbI_Ycux?usp=sharing"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfvjiM3n1m0PHw3FNX5wOBQKE8jSc7tBVPDg&s" alt="" /></a>
+        <h2 className={styles.txtam}>Prison Break 4 Temporada</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/drive/folders/1XTk88oKpaFoZJwE5YSM_Or3cXmdt60_E?usp=sharing"><img src="https://images.justwatch.com/poster/38275120/s592/temporada-1" alt="" /></a>
+        <h2 className={styles.txtam}>Teen Wolf 1° Temporada</h2>
+      </div>
+
+
+
+
+
+      </div>
+
+
+
+      <div className={styles.filmes}>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/drive/folders/1Q2e_SBjyka_LJax9nbD5v02wXWLZ5edi?usp=sharing"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQJJNwYV2q_e-qRH550oldNs1RTDfLsJJCXw&s" alt="" /></a>
+        <h2 className={styles.txtam}>Sex Education 1 e 2ª Temporada</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/drive/folders/10s3V7ZLLk5a07YwGxGE5OZ-vLB1FaGT-?usp=sharing"><img src="https://cdn.fstatic.com/media/movies/covers/2014/07/brooklyn-nine-nine-season-2_tNone.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Brooklyn Nine-Nine - 1 e 2ªTemporada</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/drive/folders/11yirNG5JWKvSB2tiiweYNcpi2-Gp5Moi?usp=sharing"><img src="https://media.fstatic.com/M2RNXHxrUokFy93UzziQymvlq3g=/322x478/smart/filters:format(webp)/media/movies/covers/2018/09/b686425d33b7e9626fe5b766ecef21bd798fcd19.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Atypical 1 e 2ªTemporada</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/drive/folders/1ZZwtOCdoHiCb_6znkPbcKZfULzvZEyAV?usp=sharing"><img src="https://upload.wikimedia.org/wikipedia/pt/a/af/GleePrimeiraTemporada.png" alt="" /></a>
+        <h2 className={styles.txtam}>Glee 1° Temporada</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/drive/folders/1tXWJ2tsI0TlhLp3ra7o0bEqnBRPDTDbB?usp=sharing"><img src="https://images.justwatch.com/poster/168528825/s592/temporada-1" alt="" /></a>
+        <h2 className={styles.txtam}>Luna Nera 1ª Temporada</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/drive/folders/1jeBoOuvq7ZxlVlY0ObBqJAc6WkMkR5Lc?usp=sharing"><img src="https://upload.wikimedia.org/wikipedia/pt/e/e6/Gilmore_Girls_season_1_box_set.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Gilmore Girls 1ª Temporada</h2>
+      </div>
+
+
+
+      </div>
+
+
+      <div className={styles.filmes}>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/drive/folders/1Po4OK1ZJTTMiuy0INuJBz5Of5WCoZSjv?usp=sharing"><img src="https://i.pinimg.com/736x/e6/42/e9/e642e9496e7b403f760c840dfee7a52d.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Dark - 1ª temporada</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href=""><img src="" alt="" /></a>
+        <h2 className={styles.txtam}></h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href=""><img src="" alt="" /></a>
+        <h2 className={styles.txtam}></h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href=""><img src="" alt="" /></a>
+        <h2 className={styles.txtam}></h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href=""><img src="" alt="" /></a>
+        <h2 className={styles.txtam}></h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href=""><img src="" alt="" /></a>
+        <h2 className={styles.txtam}></h2>
+      </div>
+
+      </div>
+
+      
 
     </>
   )

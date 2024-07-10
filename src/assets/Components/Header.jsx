@@ -12,7 +12,7 @@ export default function Header() {
           <li><Link to="./"><button className={style.neomorphbtn}>Home</button></Link></li>
           <li><Link to="./Livros"><button className={style.neomorphbtn}>Livros</button></Link></li>
           <li><Link to="./Sagas"><button className={style.neomorphbtn}>Sagas</button></Link></li>
-          <li><Link to="./Filmes"><button className={style.neomorphbtn}>Filmes</button></Link></li>
+          <li><Link to="./Filmes"><button className={style.neomorphbtn}>Area de cinema</button></Link></li>
           <li><Link to="./Projeto"><button className={style.neomorphbtn}>Projetos</button></Link></li>
         </ul>
     </header>

@@ -265,7 +265,7 @@ export default function Livros() {
 
       <div className={styles.box}>
         <a href="https://drive.google.com/file/d/1-heZXcCFsrUzUbnKUaaXL8aB1gM-MBGG/view?usp=sharing"><img src="https://m.media-amazon.com/images/I/A1qKdjxJYwL._AC_UF1000,1000_QL80_.jpg" alt="" /></a>
-        <h2 className={styles.txtam}>Surpreendido pela Alegria</h2>
+        <h2 className={styles.txtam2}>Surpreendido pela Alegria</h2>
       </div>
       
       <div className={styles.box}>
