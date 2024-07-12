@@ -106,7 +106,7 @@ export default function Filmes() {
 
       <div className={styles.box}>
       <a href="https://drive.google.com/file/d/11rzXkdMPmCmvAKYCf_Yil4-_r-2K_yib/view?usp=sharing"><img src="https://br.web.img3.acsta.net/pictures/18/04/24/16/26/5909399.jpg" alt="" /></a>
-       <h2 className={styles.txtam}>Venom</h2>
+       <h2 className={styles.txtam2}>Venom</h2>
       </div>
 
       <div className={styles.box}>
@@ -145,6 +145,12 @@ export default function Filmes() {
         <h2 className={styles.txtam}>P.S. Eu te Amo</h2>
       </div>
 
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1d-tGIEuCd91ZHfWPbIaA30mTqTyjdGnC/view?usp=sharing"><img src="https://br.web.img2.acsta.net/medias/nmedia/18/87/82/86/19961967.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Monstros S.A</h2>
+      </div>
+
+
 
 
 
@@ -155,37 +161,472 @@ export default function Filmes() {
 
       <div className={styles.box}>
         <a href="https://drive.google.com/file/d/1WgdRG92OIUf_MkLGtJKk1eaX_lW5dj7F/view?usp=sharing"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7ImchtrVwG_9Wbyq9LF-64mThoi70D_Go5A&s" alt="" /></a>
-        <h2 className={styles.txtam}>Logan</h2>
+        <h2 className={styles.txtam2}>Logan</h2>
       </div>
 
       <div className={styles.box}>
-        <a href=""><img src="" alt="" /></a>
-        <h2 className={styles.txtam}></h2>
+        <a href="https://drive.google.com/file/d/14Qn-tIaZZ5fsao2KdgFWM32H9iotDUyb/view?usp=sharing"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4AIIqKnM_95oSJQtR2PCo6ReQy2K4Ic4LVA&s" alt="" /></a>
+        <h2 className={styles.txtam2}>Malévola</h2>
       </div>
 
       <div className={styles.box}>
-        <a href=""><img src="" alt="" /></a>
-        <h2 className={styles.txtam}></h2>
+        <a href="https://drive.google.com/file/d/1BxIfdS5Em7hgCin-fwVVFh0DBjVgCAqM/view?usp=sharing"><img src="https://lumiere-a.akamaihd.net/v1/images/p_dumbo_19753_7f6610fc.jpeg?region=0,0,540,810" alt="" /></a>
+        <h2 className={styles.txtam2}>Dumbo</h2>
       </div>
 
       <div className={styles.box}>
-        <a href=""><img src="" alt="" /></a>
-        <h2 className={styles.txtam}></h2>
+        <a href="https://drive.google.com/file/d/1T2oKG_cTbmNDDTpIDxedz_bQ05Ih-WG5/view?usp=sharing"><img src="https://br.web.img2.acsta.net/pictures/20/10/20/23/17/4001815.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>A Dama e o Vagabundo</h2>
       </div>
 
       <div className={styles.box}>
-        <a href=""><img src="" alt="" /></a>
-        <h2 className={styles.txtam}></h2>
+        <a href="https://drive.google.com/file/d/1aHVoN-kWxIvdQBi9a6OMSqXws7q674Cr/view?usp=sharing"><img src="https://play-lh.googleusercontent.com/wdMm7rZTtZSJ_xPE34SHAtIglukxQ5mbSGj5v2gL9HICLNvjgLH_4ldgEhjyiz1NqlMj" alt="" /></a>
+        <h2 className={styles.txtam}>Moana</h2>
       </div>
 
       <div className={styles.box}>
-        <a href=""><img src="" alt="" /></a>
-        <h2 className={styles.txtam}></h2>
+        <a href="https://drive.google.com/file/d/1nphBCTqWEKSvZOJ67kZCPEWyk7SoD2yy/view?usp=sharing"><img src="https://citandopalavras.wordpress.com/wp-content/uploads/2015/06/detona_ralph_poster_7.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Detona Ralph</h2>
       </div>
 
 
 
       </div>
+
+      <div className={styles.filmes}>
+        
+        
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1ld0T2t9pM-kMniihkcjq1k3snk56HbCL/view?usp=sharing"><img src="https://upload.wikimedia.org/wikipedia/pt/7/7e/Carros_2_P%C3%B4ster.jpg" alt="" /></a>
+        <h2 className={styles.txtam2}>Carros 2</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1EwnyjLJ7017KTC0S5B19ljNK-DjSPl0f/view?usp=sharing"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-wiVTDIyBTD2Sjsz_eFcB0amozrE1HPJqfw&s" alt="" /></a>
+        <h2 className={styles.txtam2}>Carros 3</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/150zBXzgXuqTcmY8Dux1lJbdUhaprYnyF/view?usp=sharing"><img src="https://upload.wikimedia.org/wikipedia/pt/9/95/Camp_Rock.JPG" alt="" /></a>
+        <h2 className={styles.txtam2}>Camp Rock </h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/0B93Yw95OzPW-Vkp1b0x1MndnT2M/view?usp=sharing&resourcekey=0-pLKCARbZTyldw9QwI9FHhg"><img src="https://m.media-amazon.com/images/M/MV5BNjI5ODI4NTc1MF5BMl5BanBnXkFtZTgwMDg3ODYzMjE@._V1_.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>High School Music 2</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/0B--Wvi-L-CKjQTNrSzNPWTc2b0E/view?usp=sharing&resourcekey=0-TU0YSRNsB_f_rjRQfJdY1w"><img src="https://upload.wikimedia.org/wikipedia/pt/f/fb/DVD_High_School_Musical_3.JPG" alt="" /></a>
+        <h2 className={styles.txtam}>High School Music 3</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1vjLpVZtiybC6dQ18BbcQt3RuLLKTTtNk/view?usp=sharing"><img src="https://play-lh.googleusercontent.com/G8caSNU2KEWmWWXYLZ6bSWJr1cnEBmAfk8eKpjFkZ6fg1VlkhHoQkHtAHuY4QFvLANe-9JM-bNNzTEq4Jw=w240-h480-rw" alt="" /></a>
+        <h2 className={styles.txtam}>Parasita</h2>
+      </div>
+        
+        
+        
+        </div>
+
+        <div className={styles.filmes}>
+
+        <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1fL3Ed68lwXfoK57_HKynrhoHEHneYZsw/view?usp=sharing"><img src="https://br.web.img3.acsta.net/pictures/19/10/15/20/11/5125005.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>O Escandalo</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1-BX6HlPpRrgZG9-SiwDT_k4tcyqf6FmX/view?usp=sharing"><img src="https://br.web.img2.acsta.net/pictures/18/11/30/21/49/3142885.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Vidro</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1luybKPGPDkIV_eFLmTHUDeXeXOTaxEt4/view?usp=sharing"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOjCG1Rgd6YReGiqJr_hHmRnRVFLvLYUW7Mw&s" alt="" /></a>
+        <h2 className={styles.txtam}>Sr E Sra Smith</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1NeS8TUktKxRsKS4GEERjmMsxyNk9XiWM/view?usp=sharing"><img src="https://br.web.img3.acsta.net/medias/nmedia/18/90/32/60/20091672.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Obsessiva</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1uMhaPdryQv-GtOnYBMtcocnDZTPkMzBn/view?usp=sharing"><img src="https://m.media-amazon.com/images/I/61Fo3CitEGL._AC_UF1000,1000_QL80_.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>A Menina Que Roubava Livros</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/14k0g4SRVxae_78mIJInHzetV0DbZkjhb/view?usp=sharing"><img src="https://cdn.awsli.com.br/600x450/2515/2515191/produto/18165552631f28b95d5.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>12 Anos De Escravidão</h2>
+      </div>
+
+
+        </div>
+
+
+        <div className={styles.filmes}>
+
+        <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1U5GJEZKGZfqJk-PQOoD9UYDRyYUCTwh8/view?usp=sharing"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhUrUNlRULT0g30tcoyFiFi16evG2lRwBbRA&s" alt="" /></a>
+        <h2 className={styles.txtam}>Uma Vida Oculta</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1huLP7cuf98copp6fl-rSI0uzRgA-V4Yj/view?usp=sharing"><img src="https://images.justwatch.com/poster/178527846/s718/dangerous-lies.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Mentiras Perigosas</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1PKn_pB81A5wi4YCQbZalbDx1xAVVn_zK/view?usp=sharing"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBHHync1S37r24g6wEdFiwB-59b7sQwRt84A&s" alt="" /></a>
+        <h2 className={styles.txtam}>Entre Facas e Segredos</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1fpZ7tCSh9ISt94zyVoK7IEp4xaZ2Xtj4/view?usp=sharing"><img src="https://www.cinehorror.com.br/imagens-posts/os-estranhos-cacada-noturna-2018_24-07-18_04-51-53_max.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Os Estranhos - Caçada Noturna</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1SGG3A73dFCP5e_2PZCDAwagkUvPahn3w/view?usp=sharing"><img src="https://br.web.img2.acsta.net/pictures/14/06/24/13/52/528288.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Atividade Paranormal 4</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/0B3x9yBHhEBETd0h6OE5UdTM3QlU/view?usp=sharing&resourcekey=0-8vgM4yDchTY5qcbPQJxYHQ"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrTUIRbWAR12ibbdkpXCDt5OtMq0oeqLyV-g&s" alt="" /></a>
+        <h2 className={styles.txtam}>La La Land</h2>
+      </div>
+
+
+        </div>
+
+
+        <div className={styles.filmes}>
+
+        <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/12cnRyPwcXDTbbU26MF7wXhz9cnotdEoX/view?usp=sharing"><img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihYr9Kq-8RvbuQuHcgZ0WnenfBLnoOqfcY91IwtzRpFNM_ICIvxDzylZ1z0UPnrswgBbIpbGNeDg962FAFlpbiHcB6Fo=s1600-rw-v1" alt="" /></a>
+        <h2 className={styles.txtam}>As Vantagens de ser Invisível</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1Gd4Ybs9dAxfmbLDLNf4D6SW71VHpI6lG/view?usp=sharing"><img src="https://br.web.img3.acsta.net/pictures/19/07/25/20/52/1819461.jpg" alt="" /></a>
+        <h2 className={styles.txtam2}>Bacurau</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1vslg0UmMK68A2AROt7nnmqY540yUW--O/view?usp=sharing"><img src="https://upload.wikimedia.org/wikipedia/pt/7/7e/ScaryMovie4.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Todo Mundo Em Pânico 4</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/108SVg8lmETM6CYwdxgbH3ZkzdHIIjB-i/view?usp=sharing"><img src="https://br.web.img3.acsta.net/medias/nmedia/18/91/21/46/20532444.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Guerra Mundial Z</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1rl11Y3vS_XJso21coIp56IN01exFX-9J/view?usp=sharing"><img src="https://upload.wikimedia.org/wikipedia/pt/e/e0/Democracia_em_Vertigem.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Democracia em Vertigem</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/15LTkST-N3321UpPhCiUSJpWs__YdMe9_/view?usp=sharing"><img src="https://br.web.img3.acsta.net/medias/nmedia/18/90/08/92/20083797.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>A Era do Gelo 4</h2>
+      </div>
+
+
+        </div>
+
+        <div className={styles.filmes}>
+
+        <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/0B61IslpS_OonajJPcnk4OU9FVG8/view?usp=sharing&resourcekey=0-M_X8yQz3uH5nPuMkHWJWTw"><img src="https://portalpopline.com.br/wp-content/uploads/2024/07/o-diabo-veste-prada-poster.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>o diabo veste prada</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1fLOWomJBO-QjmpkLNzKX7wQ-_m7g2RJW/view?usp=sharing"><img src="https://br.web.img3.acsta.net/pictures/19/08/06/21/50/5749668.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>era uma vez em... hollywood </h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1j_Vm2C2q2e5k57LCZd8CvnF2Cmk-SWkt/view?usp=sharing"><img src="https://br.web.img3.acsta.net/pictures/19/12/12/22/35/3598465.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Minha Mãe é uma Peça 3</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1s4pDJRWO7KmJPautCG0m2WRLzvErsPbw/view?usp=sharing"><img src="https://historiamilitaremdebate.com.br/wp-content/uploads/2021/11/A-10.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>1917</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1b30rjb2h4MeQ7SRdUEq9t8JbUMUAv8ik/view?usp=sharing"><img src="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/162f7597-2908-4fed-a86a-1355375399e9-jojo-rabbit-1611331074.jpeg" alt="" /></a>
+        <h2 className={styles.txtam}>Jojo Rabbit</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1obj589cHFjEW-cIa6u-cDgGcQHHYc6Gs/view?usp=sharing"><img src="https://upload.wikimedia.org/wikipedia/pt/4/4f/Frozen_2_poster.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Frozen 2</h2>
+      </div>
+
+
+
+
+        </div>
+
+
+        <div className={styles.filmes}>
+
+        <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/127dY1RSHczO1YvXYPMUoOnp3QbQjlTT8/view?usp=sharing"><img src="https://nerdissimos.wordpress.com/wp-content/uploads/2015/12/capa_a_5_onda_filme.jpg" alt="" /></a>
+          <h2 className={styles.txtam}>A 5ª Onda </h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1idnL8JN3daTvnH9rX4hnlSBR_rbSTcSY/view?usp=sharing"><img src="https://m.media-amazon.com/images/S/pv-target-images/b27eaebc29f97831ca43bf4cd401b4871928ee908fbd800cb2f6ab11aab5d7c2.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Esposa de Mentirinha</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1tITj7zx5BVY5HB791YadlCpRrgZG418S/view?usp=sharing"><img src="https://m.media-amazon.com/images/S/pv-target-images/78df755896cb49111997bf6c83cd5ef9d43802ba16361fd964a76c2da99a366e.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Antes que eu vá</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1_zdEjpSz9kqVMiVX9TCdwX9JEFxIbbb-/view?usp=sharing"><img src="https://br.web.img3.acsta.net/pictures/14/12/11/15/29/051042.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Simplesmente Acontece</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://t.co/Dx6cKlXEtQ"><img src="https://one-cinema.s3.sa-east-1.amazonaws.com/filmes/the-greatest-showman/26062020/342/capa-the-greatest-showman.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>O Rei do Show</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1Flg6R8zV3EOIAuJ4kDoHAJngOUawOp8q/view?usp=sharing"><img src="https://fikdikblogdotcom.files.wordpress.com/2014/09/se-eu-ficar-poster-do-filme.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Se Eu Ficar</h2>
+      </div>
+
+
+
+        </div>
+
+
+        <div className={styles.filmes}>
+
+        <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1R0IpZ3R_r6ccrwFGdqa_X7ZiyhT9Q-56/view?usp=sharing"><img src="https://m.media-amazon.com/images/S/pv-target-images/d960bb0096195ad1115a1a075adb6dc8b5efefb90f778fba55d3632500f335db.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Golpe Duplo</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1YX8pGsFAY1vrKu8rl96VdN8-vhpUQ2mY/view?usp=sharing"><img src="https://resizing.flixster.com/9ODoVhjL-2PIHUYBJNjve-_ZoUw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzY5NDI2ODEzLWNkYjAtNGM1YS04NDU0LTM0MzE4NDhmZGNiMS53ZWJw" alt="" /></a>
+        <h2 className={styles.txtam}>After</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1liaW949mWQVR8iB8CNktJ1PmSiAd_-7M/view?usp=sharing"><img src="https://br.web.img2.acsta.net/pictures/15/09/11/18/22/526627.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>O Colecionador de Corpos</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1IPui2nK_oit4hzehH-LQia1CMsEBytN4gg/view?usp=sharing"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ML7LLNbKlsfAYt5V2LCBRJOPZ0jBCGMRcw&s" alt="" /></a>
+        <h2 className={styles.txtam}>Fragmentado</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1WidKZNRBw8G8uR5ASIQRfxhQT8lNxcLW/view?usp=sharing"><img src="https://m.media-amazon.com/images/S/pv-target-images/b44773e53fd956a64932651242402f5caa8bc3a6395a5fb64f6457287710a1e7.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>A Morte te dá Parabéns</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1x5YLvRIOu163TuQzFu5pz9mZUvrSm9JX/view?usp=sharing"><img src="https://br.web.img2.acsta.net/pictures/22/05/16/17/59/5165498.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Tudo em Todo o Lugar ao Mesmo Tempo </h2>
+      </div>
+
+
+
+        </div>
+
+
+        <div className={styles.filmes}>
+
+        <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/14vhz7DfnmzTtA5egZqpMxm-cMr62mXaj/view?usp=sharing"><img src="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/79/16/19961587.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Coraline e o Mundo Secreto</h2>
+      </div> 
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1IzVA0NU-az0h0V0UVpOQ2C1B2xV-Iqpy/view?usp=sharing"><img src="https://one-cinema.s3.sa-east-1.amazonaws.com/filmes/oceans-eight/10062020/342/capa-oceans-eight.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Oito Mulheres e um Segredo</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1iEXh5s2vkgQ3WZD3ehGWca6eRaIMpUUj/view?usp=sharing"><img src="https://upload.wikimedia.org/wikipedia/pt/thumb/d/db/Brave_Teaser_Poster.jpg/240px-Brave_Teaser_Poster.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Valente</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/15uFimcJaFy3XmTqayFkfcEcVzpWi086M/view?usp=sharing"><img src="https://play-lh.googleusercontent.com/OiDiKuScVIilQo-hZzD2q9dF25i8bYxtC3xtkUoYUFcV6pO_S9leaINj5wRq0f6Y84_bNTkZNH5Va6EvNA" alt="" /></a>
+        <h2 className={styles.txtam}>O Farol</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1pZLHS1DuCkG3PxaSV8FDcZTfcONNq7pU/view?usp=sharing"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI9Hts-lMH5Fc6hAhNHgh2k6w9Bi40F2ahAQ&s" alt="" /></a>
+        <h2 className={styles.txtam}>Me Chame pelo seu nome</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1PYK3F-k-CmDeRX7UUD9uSeI9vnwg4DLp/view?usp=sharing"><img src="https://br.web.img3.acsta.net/pictures/17/06/12/16/35/052588.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Atômica</h2>
+      </div>
+
+
+
+        </div>
+
+
+        <div className={styles.filmes}>
+
+        <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1Ur_nf2MtyRwrrgmUECUh9ZBuLwvZ4gtZ/view?usp=sharing"><img src="https://static.wixstatic.com/media/1b65e5_c1a8d89ab08f4c738c5e6addc9a34673~mv2.jpg/v1/fill/w_789,h_1000,al_c,q_85,usm_0.66_1.00_0.01/1b65e5_c1a8d89ab08f4c738c5e6addc9a34673~mv2.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>a fantastica fabrica de chocolate</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1PQyNrOAjvs49ElUqVy3rdk7wRAGN8es6/view?usp=sharing"><img src="https://upload.wikimedia.org/wikipedia/pt/6/68/Poster-turma-da-monica-lacos.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Turma da Mônica - Laços</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1BfSSD35A-gB8L0RjaGJ9XktHfQrRYz4p/view?usp=sharing"><img src="https://images.justwatch.com/poster/300963593/s718/o-quarto-do-panico.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>O Quarto Do Pânico</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/17BiIpFEwkSUlM9apVMb2Mxl3Lv2Jrd84/view?usp=sharing"><img src="https://media.fstatic.com/r-4jBZGrEbcObu1tmS-tva-cryg=/322x478/smart/filters:format(webp)/media/movies/covers/2023/11/images.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>16 Desejos </h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1LssEn3sXIrkj2cIu6KlzRkNpFNqXrLG1/view?usp=sharing"><img src="https://br.web.img2.acsta.net/medias/nmedia/18/91/33/63/20140763.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Edward Maos de Tesoura</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1ORfjS24cJYb635jIcEKAZ047EIotmpti/view?usp=sharing"><img src="https://cinema10.com.br/upload/filmes/filmes_5942_Julieta.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Romeu e Julieta</h2>
+      </div>
+
+
+
+
+        </div>
+
+        <div className={styles.filmes}>
+
+        <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1L5MIR-vAP2NSGFgf-AE82NtIyg_1l8od/view?usp=sharing"><img src="https://m.media-amazon.com/images/S/pv-target-images/9c783b4ca4194e740ddc40b75db6f813af3e448cf42c0f2d53bcad41645402ee.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Zathura - Uma Aventura Espacial</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/18vCM6t1mdvjMnJRehQQanHmRAXDIpGuh/view?usp=sharing"><img src="https://br.web.img3.acsta.net/pictures/210/473/21047374_2013100717182954.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Imagine Eu & Você</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/0B8waEK7X5JP7Z1FBbDNLVDNsTTg/view?usp=sharing&resourcekey=0-qdFLhP6TOqOJNL9KaPOnEQ"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgm6-UdseH6Ge2hyOQ6psrWiFiv3dsZxyCwg&s" alt="" /></a>
+        <h2 className={styles.txtam}>eu sou o numero 4</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1TNZl7cZ1XXpKRFM2SREZvUDY--wJLUYM/view?usp=sharing"><img src="https://ds0.cds.nowonline.com.br/assets/p33587_v_v12_av.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Como se Fosse a Primeira Vez</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/19uC8NjnRWu4Oaa56_fVj2pRxgZEz1PbP/view?usp=sharing"><img src="https://media.fstatic.com/gWkrMDJfsNNxxkvD0dyf-Y_7T6Q=/322x478/smart/filters:format(webp)/media/movies/covers/2019/08/MV5BNTQyMDQwYTUtMDdlMC00YTczLTk2NDktZDRjZDEyZjJmNGQzXkEyXkFqcGdeQX_I6V0ImJ.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Your Name</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1xc1I8CoxmqgipxrIvWJfdIfXv4vEAPnR/view?usp=sharing"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkFtrEL5I73HfAgwMQ8hSlgRUm3rU3s2wIng5Nsd7WQISjLiQjEig8eTkk-j-tgbPvImfXsInqvle_0oScQn8m_-OUScTYRkdNXebLFG52857LwFGwfS6n2uzfTO64WC2KeCAAuIABpzKV/s640/my-neighbor-totoro-picture-book-D_NQ_NP_835776-MLB26662493451_012018-F.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Meu Amigo Totoro</h2>
+      </div>
+
+
+        </div>
+
+
+        <div className={styles.filmes}>
+          
+        <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1YqAl9hopJNo2XJBltP-sA_8zkHrDLWA2/view?usp=sharing"><img src="https://br.web.img3.acsta.net/pictures/bzp/01/40137.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>O Serviço de Entregas da Kiki </h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1JtrNrvflE_3ExShzhqiKDR6h2HWtxZQq/view?usp=sharing"><img src="https://odiariodeumcontadordehistorias.wordpress.com/wp-content/uploads/2017/05/howls-moving-castle.jpeg" alt="" /></a>
+        <h2 className={styles.txtam}>O Castelo Animado</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/150ecRM5tVrOL2_9xnEaV_T3orzKvsB70/view?usp=sharing"><img src="https://play-lh.googleusercontent.com/7Rgea9MmK-wDbyH7Cy4LSPvri5E1XeVPhYKLUjvwY-lAsy4sDrO2-5FielQP8hVhxqmCaQ8SQwtFj09BUNs" alt="" /></a>
+        <h2 className={styles.txtam}>Ponyo</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1p9XPVt_3XcrMHoHeeMDjD6Vaii1UO3Hn/view?usp=sharing"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJZey3FKTAbQ3gJBaDP-IBLXCdhpzQ5Q8DOg&s" alt="" /></a>
+        <h2 className={styles.txtam}>A Viagem de Chihiro</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/10VWzxs6-x1ok2EPMKJSZaWJN5Mj0h1aO/view?usp=sharing"><img src="https://br.web.img2.acsta.net/medias/nmedia/18/91/33/59/20140728.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>A Noiva Cadaver</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1-nl3lkE4rpTmHDMlYQ8iDCXJcFgLH824/view?usp=sharing"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLl8MA0c1QxzsQoZdby1xvqT2MnoInipNFuZ6szjL_5Bbzn-h-NYdMbhgJtA4teNTjgZ3crvrX_kSXkQrMpxnllLIkbPm66Sji84GegvVwJztoG83UVgOoSscAystPv55aG2TFUs8xkbqP/s1600/O-Estranho-Mundo-de-Jack.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>O Estranho Mundo de Jack</h2>
+      </div>
+          
+        
+          
+          </div>
+
+
+
+
+          <div className={styles.filmes}>
+
+
+          <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1sMTemXfpBJVA6gXbvWCQTvxTsA-LAbt8/view?usp=sharing"><img src="https://upload.wikimedia.org/wikipedia/pt/4/4b/Onward_Poster.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Dois Irmãos</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/0B7h6w2STaJk6Uy1xWml0TWk4bDA/view?usp=sharing&resourcekey=0-dFZsMEx19Amfs4FWH2MTkA"><img src="https://resizing.flixster.com/ySiX7RlyKRuuxCcAI7SgdkMAZ0U=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzc4ZmJhZjZiLTEzNWMtNDIwOC1hYzU1LTgwZjE3ZjQzNTdiNy5qcGc=" alt="" /></a>
+        <h2 className={styles.txtam}>Ratatouille</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1oTn6HXod8EHS5JlBibnhjPSrqVhgNwjV/view?usp=sharing"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIWigkeYUGBJ7twjUv9QJAk8MEfshafYgfvQ&s" alt="" /></a>
+        <h2 className={styles.txtam}>Homem-Aranha No Aranhaverso </h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1zSbfm9ooSVtoN8_rvIgrFHryHH1bXutI/view?usp=sharing"><img src="https://upload.wikimedia.org/wikipedia/pt/9/9f/Sonic_the_Hedgehog_2019.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Sonic</h2>
+      </div>
+      
+      
+      
+      </div>
+
+
+
 
 
         <h1>Harry Potter</h1>
@@ -370,12 +811,12 @@ export default function Filmes() {
 
       <div className={styles.box}>
         <a href="https://drive.google.com/drive/folders/10s3V7ZLLk5a07YwGxGE5OZ-vLB1FaGT-?usp=sharing"><img src="https://cdn.fstatic.com/media/movies/covers/2014/07/brooklyn-nine-nine-season-2_tNone.jpg" alt="" /></a>
-        <h2 className={styles.txtam}>Brooklyn Nine-Nine - 1 e 2ªTemporada</h2>
+        <h2 className={styles.txtam2}>Brooklyn Nine-Nine - 1 e 2ªTemporada</h2>
       </div>
 
       <div className={styles.box}>
         <a href="https://drive.google.com/drive/folders/11yirNG5JWKvSB2tiiweYNcpi2-Gp5Moi?usp=sharing"><img src="https://media.fstatic.com/M2RNXHxrUokFy93UzziQymvlq3g=/322x478/smart/filters:format(webp)/media/movies/covers/2018/09/b686425d33b7e9626fe5b766ecef21bd798fcd19.jpg" alt="" /></a>
-        <h2 className={styles.txtam}>Atypical 1 e 2ªTemporada</h2>
+        <h2 className={styles.txtam2}>Atypical 1 e 2ªTemporada</h2>
       </div>
 
       <div className={styles.box}>
@@ -385,7 +826,7 @@ export default function Filmes() {
 
       <div className={styles.box}>
         <a href="https://drive.google.com/drive/folders/1tXWJ2tsI0TlhLp3ra7o0bEqnBRPDTDbB?usp=sharing"><img src="https://images.justwatch.com/poster/168528825/s592/temporada-1" alt="" /></a>
-        <h2 className={styles.txtam}>Luna Nera 1ª Temporada</h2>
+        <h2 className={styles.txtam}>Luna Negra 1ª Temporada</h2>
       </div>
 
       <div className={styles.box}>
@@ -406,29 +847,66 @@ export default function Filmes() {
       </div>
 
       <div className={styles.box}>
-        <a href=""><img src="" alt="" /></a>
-        <h2 className={styles.txtam}></h2>
+        <a href="https://drive.google.com/drive/folders/1ZV0ucTLE4pHQ5cHHx-um9pRoiioDt3tl?usp=sharing"><img src="https://br.web.img3.acsta.net/pictures/18/04/27/18/21/4390153.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Pose - Temporada 2</h2>
       </div>
 
       <div className={styles.box}>
-        <a href=""><img src="" alt="" /></a>
-        <h2 className={styles.txtam}></h2>
+        <a href="https://drive.google.com/drive/folders/1HEvE3ZNrAtaRRONaixyJaW9Tky0OZsUh?usp=sharing"><img src="https://br.web.img3.acsta.net/pictures/22/10/03/14/13/4998192.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Dinastia - Temporada 1</h2>
       </div>
 
       <div className={styles.box}>
-        <a href=""><img src="" alt="" /></a>
-        <h2 className={styles.txtam}></h2>
+        <a href="https://drive.google.com/drive/folders/1C3umY6yEAf8xhshMdYs5VN8LJRd1nev_?usp=sharing"><img src="https://br.web.img2.acsta.net/pictures/19/11/12/09/11/1193498.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>You - Temporada 2</h2>
       </div>
 
       <div className={styles.box}>
-        <a href=""><img src="" alt="" /></a>
-        <h2 className={styles.txtam}></h2>
+        <a href="https://drive.google.com/drive/folders/1_z9hkoa0RfpdZDJDTKk6o0Zk6Ztqzqiw?usp=sharing"><img src="https://m.media-amazon.com/images/M/MV5BMjg5N2EyY2ItMDY1ZS00NjRhLTkwYWMtZTFlMGE5MGE0Y2E1XkEyXkFqcGdeQXVyMTI0MTA4MTM5._V1_.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Fear The Walking Dead 1ª Temporada</h2>
       </div>
 
       <div className={styles.box}>
-        <a href=""><img src="" alt="" /></a>
-        <h2 className={styles.txtam}></h2>
+        <a href="https://drive.google.com/drive/folders/1vlUoR8vFaVeMcmU-jDmvLv9eR8Pcokqq?usp=sharing"><img src="https://br.web.img3.acsta.net/pictures/20/02/06/10/00/0445818.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Não Fale com Estranhos - Temporada 1</h2>
       </div>
+
+      </div>
+
+      <div className={styles.filmes}>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/drive/folders/11PypXzk8TGhZ5pDGZI8fHOYdZ44G7xSl?usp=sharing"><img src="https://miro.medium.com/v2/resize:fit:600/1*WwPFgrw9ZjW_eMtbztAoZg@2x.jpeg" alt="" /></a>
+        <h2 className={styles.txtam}>Anne With An E - Temporada 3</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/drive/folders/1zXR7f2jW4i4KhhZ1dMSWzD6RfV8HD1Eb?usp=sharing"><img src="https://media.fstatic.com/q4xXcGjUk8UItu6ytDOR_K0OPWw=/210x312/smart/filters:format(webp)/media/movies/covers/2019/09/MV5BM2MyNjFhZGYtMmI1ZC00Nzk0LWIwZjktMzMxZTk1YTQ2NWNhXkEyXkFqcGdeQX_yJKi4jK.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Vis a Vis - 2ª temporada</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/drive/folders/1-nm4o3SVzHhoH2Q0yP_vrI-KSIidz5vv?usp=sharing"><img src="https://br.web.img2.acsta.net/pictures/22/09/23/20/14/0505071.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Wandinha</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/drive/folders/19vOoqDSZVeUmg1QmAOy1HsBShc0OfXNe?usp=sharing"><img src="https://media.fstatic.com/eG22lq9GEGxKJpirmp4qdQe0S20=/322x478/smart/filters:format(webp)/media/movies/covers/2012/02/1908e784101b614f2a777fcb531421c8.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>American Horror Story</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/drive/folders/17HXLPflMvGPnBNjscsCOEZm1_YsQ_hcW?usp=sharing"><img src="https://br.web.img3.acsta.net/pictures/21/01/05/02/43/5988956.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Violetta</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/drive/folders/1SR1tVKs_SsV0FTcuY8ukseeXzl9BYTRh?usp=sharing"><img src="https://br.web.img3.acsta.net/pictures/19/12/20/21/27/3055482.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>FRIENDS</h2>
+      </div>
+
+
+
 
       </div>
 
