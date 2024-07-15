@@ -88,4 +88,28 @@
     margin-right: 40px;
 }
 
+h1{
+    background-color: var(--roxo--700);
+    color: white;
+}
 
+
+.filmesBarbie {
+
+    display: inline-flex;
+    align-items: center;
+    margin: 30px;
+    gap: 20px;
+    color: pink;
+ 
+ }
+
+ .barbie{
+    background-color:deeppink;
+    color: white;
+ }
+
+ .brb{
+    background-color: deeppink;
+    color: white;
+ }

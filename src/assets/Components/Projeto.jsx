@@ -19,9 +19,9 @@ export default function Projeto() {
         </div>
       </article>
 
-      <a href=""><h1 className='hh'>Por trás das telas</h1></a>
+     
 
-      <p className={style.Fp}>Projetado e idealizado por: Iasmim B. 2F    |    Apoio de código programacional: Letícia V. (Orlando Flores) & M</p>
+      <p className={style.Fp}>Projetado e idealizado por: Iasmim B. 2F    |    Apoio de código programacional: Letícia V. (Orlando Flores) & M. Pacheco 2F</p>
     </>
   )
 }

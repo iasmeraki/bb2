@@ -20,7 +20,7 @@ export default function Home() {
         <img className={style.Himg} src="https://static.vecteezy.com/ti/vetor-gratis/t1/10427077-claquete-de-cinema-roxo-gratis-vetor.jpg" alt="" />
       </article>
 
-      <p className={style.Fp}>Projetado e idealizado por: Iasmim B. 2F    |    Apoio de código programacional: Letícia V. (Orlando Flores) & M</p>
+      <p className={style.Fp}>Projetado e idealizado por: Iasmim B. 2F    |    Apoio de código programacional: Letícia V. (Orlando Flores) & M. Pacheco 2D</p>
     </>
   )
 }

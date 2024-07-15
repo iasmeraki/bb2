@@ -33,8 +33,8 @@ export default function Filmes() {
         </div>
 
         <div className={styles.box}>
-          <a href="https://drive.google.com/file/d/1iD_spgZZkl8Fu2iigNjJ8ylgewyIOrNM/view?usp=drive_link"><img src="https://br.web.img2.acsta.net/pictures/16/10/18/16/29/576071.jpg" alt="" /></a>
-          <h2 className={styles.txtam}> Poderoso Chefinho </h2>
+          <a href="https://drive.google.com/file/d/1NvzeXQ2uduNhcyrmLxN58MTEsFkVKk2g/view?usp=sharing"><img src="https://play-lh.googleusercontent.com/R1MzHn4tjv1BjQxESPUCMtmNunDVL0Rc5cU8gxWZhhqJjNp04npDougVGFzIdM-nTdW_sxurVe7mH0Eq7At2" alt="" /></a>
+          <h2 className={styles.txtam}> Space Jam </h2>
         </div>
 
 
@@ -222,7 +222,7 @@ export default function Filmes() {
       </div>
 
       <div className={styles.box}>
-        <a href="https://drive.google.com/file/d/1vjLpVZtiybC6dQ18BbcQt3RuLLKTTtNk/view?usp=sharing"><img src="https://play-lh.googleusercontent.com/G8caSNU2KEWmWWXYLZ6bSWJr1cnEBmAfk8eKpjFkZ6fg1VlkhHoQkHtAHuY4QFvLANe-9JM-bNNzTEq4Jw=w240-h480-rw" alt="" /></a>
+        <a href="https://drive.google.com/file/d/1vjLpVZtiybC6dQ18BbcQt3RuLLKTTtNk/view?usp=sharing"><img src="https://upload.wikimedia.org/wikipedia/pt/thumb/b/be/Parasite_poster.jpg/250px-Parasite_poster.jpg" alt="" /></a>
         <h2 className={styles.txtam}>Parasita</h2>
       </div>
         
@@ -305,7 +305,7 @@ export default function Filmes() {
         <div className={styles.filmes}>
 
         <div className={styles.box}>
-        <a href="https://drive.google.com/file/d/12cnRyPwcXDTbbU26MF7wXhz9cnotdEoX/view?usp=sharing"><img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihYr9Kq-8RvbuQuHcgZ0WnenfBLnoOqfcY91IwtzRpFNM_ICIvxDzylZ1z0UPnrswgBbIpbGNeDg962FAFlpbiHcB6Fo=s1600-rw-v1" alt="" /></a>
+        <a href="https://drive.google.com/file/d/12cnRyPwcXDTbbU26MF7wXhz9cnotdEoX/view?usp=sharing"><img src="https://m.media-amazon.com/images/I/81mbcHKS84L._AC_UF1000,1000_QL80_.jpg" alt="" /></a>
         <h2 className={styles.txtam}>As Vantagens de ser Invisível</h2>
       </div>
 
@@ -467,7 +467,7 @@ export default function Filmes() {
       </div>
 
       <div className={styles.box}>
-        <a href="https://drive.google.com/file/d/15uFimcJaFy3XmTqayFkfcEcVzpWi086M/view?usp=sharing"><img src="https://play-lh.googleusercontent.com/OiDiKuScVIilQo-hZzD2q9dF25i8bYxtC3xtkUoYUFcV6pO_S9leaINj5wRq0f6Y84_bNTkZNH5Va6EvNA" alt="" /></a>
+        <a href="https://drive.google.com/file/d/15uFimcJaFy3XmTqayFkfcEcVzpWi086M/view?usp=sharing"><img src="https://br.web.img3.acsta.net/pictures/19/12/03/16/59/4821553.jpg" alt="" /></a>
         <h2 className={styles.txtam}>O Farol</h2>
       </div>
 
@@ -572,7 +572,7 @@ export default function Filmes() {
       </div>
 
       <div className={styles.box}>
-        <a href="https://drive.google.com/file/d/150ecRM5tVrOL2_9xnEaV_T3orzKvsB70/view?usp=sharing"><img src="https://play-lh.googleusercontent.com/7Rgea9MmK-wDbyH7Cy4LSPvri5E1XeVPhYKLUjvwY-lAsy4sDrO2-5FielQP8hVhxqmCaQ8SQwtFj09BUNs" alt="" /></a>
+        <a href="https://drive.google.com/file/d/150ecRM5tVrOL2_9xnEaV_T3orzKvsB70/view?usp=sharing"><img src="https://br.web.img3.acsta.net/medias/nmedia/18/87/90/53/19962752.asp.jpg" alt="" /></a>
         <h2 className={styles.txtam}>Ponyo</h2>
       </div>
 
@@ -620,9 +620,155 @@ export default function Filmes() {
         <a href="https://drive.google.com/file/d/1zSbfm9ooSVtoN8_rvIgrFHryHH1bXutI/view?usp=sharing"><img src="https://upload.wikimedia.org/wikipedia/pt/9/9f/Sonic_the_Hedgehog_2019.jpg" alt="" /></a>
         <h2 className={styles.txtam}>Sonic</h2>
       </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1vwEEIqwbg0Gpim320B5ujMIMAhiwZcMU/view?usp=sharing"><img src="https://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/87/32/75/19874355.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Gigantes De Aço</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1k1zHNwZ91U1_-Hc0aYT8awp5U2t-cdcL/view?usp=sharing"><img src="https://lumiere-a.akamaihd.net/v1/images/poster_002_ffcbf145.png" alt="" /></a>
+        <h2 className={styles.txtam}>Luca</h2>
+      </div>
       
       
       
+      </div>
+
+
+      <div className={styles.filmes}>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1y0iuQrmtLcNajI9sN6-HdLUHxRkNaVdT/view?usp=sharing"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdBBGN62vY_sH09XDoRHbUaWpwa7lHgr9XBA&s" alt="" /></a>
+        <h2 className={styles.txtam}>Procurando Nemo</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1HeL2inKqssN-qraplDGcupoKcuc7uDFN/view?usp=sharing"><img src="https://upload.wikimedia.org/wikipedia/pt/2/22/Titanic_poster.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Titanic</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1out2aW68QeyHxxc9jOwckJlrGc7VfQIE/view?usp=sharing"><img src="https://br.web.img2.acsta.net/medias/nmedia/18/87/77/49/19961415.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Deu A Louca Na Chapeuzinho</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1SdJFXsH-0HB7s7coTY1p_KDr4NDNVQQv/view?usp=sharing"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLsCSI04mpF5T2XS7HWGGNIfOo49jmNtdmxQ&s" alt="" /></a>
+        <h2 className={styles.txtam}>Tá Dando Onda </h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1xlJN3soOGs3GsG6piGgCx4W8PVr-MCPG/view?usp=sharing"><img src="https://br.web.img3.acsta.net/medias/nmedia/18/92/91/56/20224905.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>A Casa Monstro</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1abkKtm9MvEloFyU89MoTbNxZ6C9I2xfk/view?usp=sharing"><img src="https://br.web.img3.acsta.net/medias/nmedia/18/90/67/52/20107757.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>10 Coisas Que Eu Odeio Em Você </h2>
+      </div>
+
+
+
+      </div>
+
+
+      <div className={styles.filmes}>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1b-BAt9-id4PTjIsZag2U8MTQv1CgInmL/view?usp=sharing"><img src="https://br.web.img3.acsta.net/c_310_420/pictures/15/06/12/22/24/075964.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Amor de aluguel</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1W3WuhpPR1rqijgIJAoYfg3-6g9f_FNrO/view?usp=sharing"><img src="https://upload.wikimedia.org/wikipedia/en/6/6f/Given_%28film%29_poster.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Given The Movie</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://t.co/UvgDRy4iJL"><img src="https://m.media-amazon.com/images/I/61Folknh5XL._AC_UF1000,1000_QL80_.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Doukyuusei </h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/16BOcP0xnZiLyytpgrR3bFx5qcpUjds1h/view?usp=sharing"><img src="https://m.media-amazon.com/images/S/pv-target-images/ca7fc772eeb7c0f76d0220617150fd438f03c93387ec31bfff91ba18465d9187.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Wifi Ralph</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1oDluikr_hvEtmOrQx84f-_BX1Bdw3w-X/view?usp=sharing"><img src="https://m.media-amazon.com/images/I/71eeHZMVLcL._AC_UF894,1000_QL80_.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>O Galinho Chicken Little</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/11mkqfXaFVTlVN1Ozpqrag2dKa_bDcZHo/view?usp=sharing"><img src="https://portalpopline.com.br/wp-content/uploads/2023/08/poster-vermelho-branco-e-sangue-azul-2-jpg.webp" alt="" /></a>
+        <h2 className={styles.txtam}>Vermelho, Branco e Sangue Azul </h2>
+      </div>
+
+
+      </div>
+
+
+          <h1>Como Treinar o Seu Dragão</h1>
+      <div className={styles.filmes}>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1vB6AVXPPOS8Qgadu0Pmwd8XVM6PFLAbB/view?usp=sharing"><img src="https://static.wikia.nocookie.net/dreamworksanimation/images/d/d8/Como_Treinar_o_Seu_Drag%C3%A3o.jpg/revision/latest/scale-to-width-down/270?cb=20190625175311&path-prefix=pt-br" alt="" /></a>
+        <h2 className={styles.txtam2}>1</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1Yh1t1gPw9wo8cAYZwUQOJgbS0cZqXs9x/view?usp=sharing"><img src="https://br.web.img2.acsta.net/pictures/14/05/27/21/27/291561.jpg" alt="" /></a>
+        <h2 className={styles.txtam2}>2</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://br.web.img2.acsta.net/pictures/14/05/27/21/27/291561.jpg"><img src="https://br.web.img3.acsta.net/pictures/18/11/13/12/10/5661398.jpg" alt="" /></a>
+        <h2 className={styles.txtam2}>3</h2>
+      </div>
+
+      
+
+      </div>
+
+
+
+
+        <h1>Homem-Aranha</h1>
+      <div className={styles.filmes}>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1-Zo7y8-UYBllwdME-SnbEVprAfGoK3y5/view?usp=sharing"><img src="https://br.web.img3.acsta.net/pictures/bzp/01/29007.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Homem-Aranha (2002) </h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1-G8oArmIWMBSNPl_wCQJMjkDbBZxcj62/view?usp=sharing"><img src="https://br.web.img3.acsta.net/c_310_420/pictures/210/544/21054460_2013103118041242.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Homem-Aranha 2 (2004) </h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1BStPBch1Ogw_DQjHGQWK4dTCMO3zg6vN/view?usp=sharing"><img src="https://www.sonypictures.com.br/sites/brazil/files/2022-03/KEY%20ART_HOMEM%20ARANHA%203.JPG" alt="" /></a>
+        <h2 className={styles.txtam}>Homem-Aranha 3 (2007)</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1yO8e8zFb3poHBZ7RGrbbXZWmib8Xz0xL/view?usp=sharing"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl-DsehfoU45VdX_CySainPs_t2mpYw_leRQ&s" alt="" /></a>
+        <h2 className={styles.txtam}>O Espetacular Homem-Aranha(2012) </h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1okhUQTvvYL_XNiQtVcQNxpR4EBdTCEXa/view?usp=sharing"><img src="https://www.sonypictures.com.br/sites/brazil/files/2022-03/KEY%20ART_ESPETACULAR%20HOMEM-ARANHA%202.JPG" alt="" /></a>
+        <h2 className={styles.txtam}>O Espetacular Homem-Aranha 2 - A Ameaça De Electro (2014)</h2>
+      </div>
+
+      <div className={styles.box}>
+        <a href="https://drive.google.com/file/d/1W2r4WnajcJR3Vwbz1q2yzwmCgt3WANlu/view?usp=sharing"><img src="https://br.web.img2.acsta.net/pictures/19/07/05/17/30/5167951.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>Homem-Aranha 2 - Longe De Casa (2019)</h2>
+      </div>
+
+
+
       </div>
 
 
@@ -667,7 +813,7 @@ export default function Filmes() {
       <div className={styles.filmes}>
 
       <div className={styles.box}>
-      <a href="https://drive.google.com/file/d/1-1AzcA0ZB74_Bukq8orRBhgIGHDtzXhF/view?usp=sharing"><img src="https://play-lh.googleusercontent.com/stxJpRK-8SowDlb6rxqS7CsV8gx59ICTwVgjGPRcsyDdEAUntk03slNU-eTbqd7rNSA" alt="" /></a>
+      <a href="https://drive.google.com/file/d/1-1AzcA0ZB74_Bukq8orRBhgIGHDtzXhF/view?usp=sharing"><img src="https://images.justwatch.com/poster/164060379/s718/harry-potter-e-as-reliquias-da-morte.jpg" alt="" /></a>
        <h2 className={styles.txtam}> Relíquias da Morte - part.1</h2>
       </div>
 
@@ -676,6 +822,29 @@ export default function Filmes() {
        <h2 className={styles.txtam}> Relíquias da Morte - part.2</h2>
       </div>
 
+
+
+      </div>
+
+
+
+        <h1>As Crônicas de Nárnia</h1>
+      <div className={styles.filmes}>
+
+      <div className={styles.box}>
+      <a href="https://drive.google.com/file/d/1OaYXDM0-Y1eKfq-B3CLo2jw9F9RHekPG/view?usp=sharing"><img src="https://veja.abril.com.br/wp-content/uploads/2016/06/filmes-bestseller-08-original1.jpeg?quality=90&strip=info" alt="" /></a>
+       <h2 className={styles.txtam}>O Leão, a Feiticeira e o Guarda-roupa</h2>
+      </div>
+
+      <div className={styles.box}>
+      <a href="https://t.co/SApuor8Z7F"><img src="https://br.web.img3.acsta.net/medias/nmedia/18/63/95/39/18873759.jpg" alt="" /></a>
+       <h2 className={styles.txtam}>Príncipe Caspian</h2>
+      </div>
+
+      <div className={styles.box}>
+      <a href="https://t.co/zlG9BTXD0H"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYbm9l8Wgd_P54zsp3C0L0lgqvXsPXsxvAFw&s" alt="" /></a>
+       <h2 className={styles.txtam}>O Peregrino da Alvorada</h2>
+      </div>
 
 
       </div>
@@ -720,6 +889,44 @@ export default function Filmes() {
       
       
       
+      </div>
+
+        <h1 className={styles.barbie}>Bônus:</h1>
+        <h2 className={styles.barbie}>Barbie</h2>
+      <div className={styles.filmesBarbie}>
+
+      <div className={styles.brb}>
+        <a href="https://drive.google.com/file/d/1-knNiyvCdU5ZNCy5ACigBGVKS7lwHc7u/view?usp=sharing"><img src="https://media.fstatic.com/CPqPyfUFDtOJl0RBt-6z81_RvtE=/195x289/smart/filters:format(webp)/media/movies/covers/2009/08/barbie_-_o_diario_da_barbie.jpg" alt="" /></a>
+        <h2 className={styles.txtam}>O Diário Da Barbie</h2>
+      </div>
+
+      <div className={styles.brb}>
+        <a href="https://drive.google.com/file/d/12JtfbIiHxT3yusEz0fBCYSrZ5QR0derc/view?usp=sharing"><img src="" alt="" /></a>
+        <h2 className={styles.txtam}>Barbie: Vida de Sereia</h2>
+      </div>
+
+      <div className={styles.brb}>
+        <a href="https://drive.google.com/file/d/12MJohjE0hg8vfPF1tXnjDYcawRbN1Zt1/view?usp=sharing"><img src="" alt="" /></a>
+        <h2 className={styles.txtam}>Barbie: Vida de Sereia 2</h2>
+      </div>
+
+      <div className={styles.brb}>
+        <a href=""><img src="" alt="" /></a>
+        <h2 className={styles.txtam}></h2>
+      </div>
+
+      <div className={styles.brb}>
+        <a href=""><img src="" alt="" /></a>
+        <h2 className={styles.txtam}></h2>
+      </div>
+
+      <div className={styles.brb}>
+        <a href=""><img src="" alt="" /></a>
+        <h2 className={styles.txtam}></h2>
+      </div>
+
+
+
       </div>
 
       <h1>Séries</h1>
