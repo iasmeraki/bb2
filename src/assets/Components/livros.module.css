@@ -101,15 +101,23 @@ h1{
     margin: 30px;
     gap: 20px;
     color: pink;
+    
  
  }
 
  .barbie{
-    background-color:deeppink;
+    background-color:deeppink !important;
     color: white;
  }
 
  .brb{
     background-color: deeppink;
     color: white;
+
  }
+
+ .barb2{
+    background-color: palevioletred;
+    object-fit: cover;
+ }
+
