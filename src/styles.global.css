@@ -20,6 +20,14 @@
     --roxo--200: #ef9af7;
     --roxo--100: #ffb3ff;
 
+    /* cinzas */
+
+    --cinza--900: #3c3c3c ;
+    --cinza--800: #515151;
+    --cinza--700: #666666;
+    --cinza--600: #8c8c8c;
+    --cinza--500: #b5b5b5;
+
 }
 *{
     margin: 0;
@@ -29,7 +37,7 @@
 
 body {
     color: var(--roxo--700);
-    background-color: var(--roxo--900);
+    background-color: var(--roxo--100);
     
 
 }
