@@ -7,6 +7,15 @@
    color: var(--roxo--900);
 
 }
+.filmes {
+
+    display: inline-flex;
+    align-items: center;
+    margin: 30px;
+    gap: 20px;
+    color: var(--roxo--900);
+ 
+ }
 
 .rows {
 
@@ -79,4 +88,36 @@
     margin-right: 40px;
 }
 
+h1{
+    background-color: var(--roxo--700);
+    color: white;
+}
+
+
+.filmesBarbie {
+
+    display: inline-flex;
+    align-items: center;
+    margin: 30px;
+    gap: 20px;
+    color: pink;
+    
+ 
+ }
+
+ .barbie{
+    background-color:deeppink !important;
+    color: white;
+ }
+
+ .brb{
+    background-color: deeppink;
+    color: white;
+
+ }
+
+ .barb2{
+    background-color: palevioletred;
+    object-fit: cover;
+ }
 

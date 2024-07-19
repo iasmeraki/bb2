@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Ga+Maamli&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
 
 .Principal {
 
@@ -50,5 +51,23 @@
   width: 500px;
   height: 250px;
   border-radius: 10px;
+
+}
+
+p{
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  padding: 100px;
+  color: var(--roxo--700);
+}
+
+.Fp{
+
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  padding: 100px;
+  color: var(--roxo--700);
 
 }
