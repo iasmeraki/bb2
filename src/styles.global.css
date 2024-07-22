@@ -48,12 +48,6 @@ img{
      width: 170px;
 
 }
-@media screen and (max-width:1020px) {
-    
-    .menu{
-        display: flex;
-        justify-content: center;
-        flex-direction: column;
+@media only screen and (max-width: 600px) {
 
-    }
-}
+  }
