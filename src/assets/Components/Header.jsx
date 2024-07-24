@@ -6,7 +6,7 @@ export default function Header() {
   return (
     <header className={style.header}>
 
-      <a href="https://www.instagram.com/raoni.ct?igsh=ZDM2NG95dW9oejR0"><img className={style.imgHeader} src="https://cinepop.com.br/wp-content/uploads/2024/05/bin_bong_divertidamente.jpg" alt="" /></a>
+      <a href="https://www.instagram.com/raoni.ct?igsh=ZDM2NG95dW9oejR0"><img className={style.imgHeader} src="https://i.pinimg.com/736x/65/cb/8e/65cb8e9176e13050f96983b36bae3f65.jpg" alt="" /></a>
 
         <ul className={style.menu}>
           <li><Link to="./"><button className={style.neomorphbtn}>Home</button></Link></li>

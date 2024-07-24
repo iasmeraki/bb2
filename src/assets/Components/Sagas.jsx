@@ -9,7 +9,7 @@ export default function Sagas() {
     
     <div className={styles.rows}>
       
-      <div className={styles.box}>
+      <div className={styles.box2}>
           <a href="https://drive.google.com/drive/folders/1-hTE0dS_TaS3auUfM0v4GiTW3NFvDkJ_?usp=drive_link"><img src="https://m.media-amazon.com/images/I/913SIoOzBAL._AC_UF894,1000_QL80_.jpg" alt="" /></a>
           <h2 className={styles.txtam}>Maze Runner</h2> 
           </div>
@@ -20,7 +20,7 @@ export default function Sagas() {
           </div>
           
 
-          <div className={styles.box}>
+          <div className={styles.box2}>
          <a href="https://drive.google.com/drive/folders/1GGhJiVUsmDcdZvkHugxH80MwuzEDjLTR?usp=drive_link"><img src="https://m.media-amazon.com/images/I/91LzeKCuAGL._AC_UF1000,1000_QL80_.jpg" alt="" /></a>
           <h2 className={styles.txtam2}>Bridgerton</h2>
           </div>
@@ -28,7 +28,7 @@ export default function Sagas() {
           <a href="https://drive.google.com/drive/folders/1GTRx2vQkEqmH3wVIGcXoZKo2jntP-MQZ?usp=drive_link"><img src="https://m.media-amazon.com/images/I/71p66yY4htL._AC_UF1000,1000_QL80_.jpg" alt="" /></a>
           <h2 className={styles.txtam2}>Caraval</h2>
           </div>
-          <div className={styles.box}>
+          <div className={styles.box2}>
           <a href="https://drive.google.com/drive/folders/1Ais2Lr4eDCzSqDTWX0mhzWeocIZN42zl?usp=sharing"><img src="https://m.media-amazon.com/images/I/81ql6xkkliL._AC_UF1000,1000_QL80_.jpg" alt="" /></a>
           <h2 className={styles.txtam2}>A Seleção</h2>
           </div>
@@ -46,7 +46,7 @@ export default function Sagas() {
         <h2 className={styles.txtam}>Coisas que Nunca superamos</h2>
       </div>
 
-      <div className={styles.box}>
+      <div className={styles.box2}>
         <a href="https://drive.google.com/drive/folders/1I6MiUe6YCLvqqE317Y4skKSAuU2Tvuks?usp=sharing"><img src="https://m.media-amazon.com/images/I/51arPw4V9CL.jpg" alt="" /></a>
         <h2 className={styles.txtam}>Devil's Night</h2>
       </div>
@@ -56,7 +56,7 @@ export default function Sagas() {
         <h2 className={styles.txtam}>Diário de um Banana</h2>
       </div>
 
-      <div className={styles.box}>
+      <div className={styles.box2}>
         <a href="https://drive.google.com/drive/folders/1DESoLNpJWMkIITDv9faymaraRasaglNx?usp=sharing"><img src="https://m.media-amazon.com/images/I/81P0wdVAFVL._AC_UF1000,1000_QL80_.jpg" alt="" /></a>
         <h2 className={styles.txtam2}>Entremundos</h2>
       </div>
@@ -66,7 +66,7 @@ export default function Sagas() {
         <h2 className={styles.txtam}>Estilhaça-me</h2>
       </div>
 
-      <div className={styles.box}>
+      <div className={styles.box2}>
         <a href="https://drive.google.com/drive/folders/19xohqrbq6KnqKf4g6AuSlszFliCXSrdN?usp=sharing"><img src="https://m.media-amazon.com/images/I/91mqmUaS9QL._AC_UF1000,1000_QL80_.jpg" alt="" /></a>
         <h2 className={styles.txtam2}>Fallen</h2>
       </div>
@@ -78,7 +78,7 @@ export default function Sagas() {
 
     <div className={styles.rows}>
     
-    <div className={styles.box}>
+    <div className={styles.box2}>
         <a href="https://drive.google.com/drive/folders/1CAUzQiSYOqgMP8w_vhn_Ph8zGuCqX1yE?usp=sharing"><img src="https://m.media-amazon.com/images/I/61rzXkz4qAL._AC_UF1000,1000_QL80_.jpg" alt="" /></a>
         <h2 className={styles.txtam}>Jogos Vorazes</h2>
       </div>
@@ -88,7 +88,7 @@ export default function Sagas() {
         <h2 className={styles.txtam}>O Lar da Srta. Peregrine para Crianças Peculiares</h2>
       </div>
 
-      <div className={styles.box}>
+      <div className={styles.box2}>
         <a href="https://drive.google.com/drive/folders/1AthkvlVYPwy6pi0lhpH-arr3fpTviP-s?usp=sharing"><img src="https://m.media-amazon.com/images/I/91O5ablL3UL._AC_UF1000,1000_QL80_.jpg" alt="" /></a>
         <h2 className={styles.txtam}>Os Artifícios Das Trevas</h2>
       </div>
@@ -98,7 +98,7 @@ export default function Sagas() {
         <h2 className={styles.txtam2}>Os Instrumentos Mortais</h2>
       </div>
 
-      <div className={styles.box}>
+      <div className={styles.box2}>
         <a href="https://drive.google.com/drive/folders/1Idqo_wELwel7HaBz10bOvqNd8qr0ajs9?usp=sharing"><img src="https://m.media-amazon.com/images/I/718rKQisF7L._AC_UF1000,1000_QL80_.jpg" alt="" /></a>
         <h2 className={styles.txtam}>Rainha Vermelha</h2>
       </div>
@@ -120,7 +120,7 @@ export default function Sagas() {
         <h2 className={styles.txtam}>Percy Jackson Os Heróis do Olimpo</h2>
       </div>
 
-      <div className={styles.box}>
+      <div className={styles.box2}>
         <a href="https://drive.google.com/drive/folders/1235yK4MuI8zde_uj_y7MARDyVkke-19t?usp=sharing"><img src="https://m.media-amazon.com/images/I/61rxMph1PfL._AC_UF1000,1000_QL80_.jpg" alt="" /></a>
         <h2 className={styles.txtam}>As crônicas de Kane</h2>
       </div>
@@ -130,7 +130,7 @@ export default function Sagas() {
         <h2 className={styles.txtam}>Semideuses e Magos</h2>
       </div>
 
-      <div className={styles.box}>
+      <div className={styles.box2}>
         <a href="https://drive.google.com/drive/folders/13C-znEJy5R9RK_9sFpwTVeNn2V0e7PQ8?usp=sharing"><img src="https://m.media-amazon.com/images/I/51Lu5KTjMyL._AC_UF1000,1000_QL80_.jpg" alt="" /></a>
         <h2 className={styles.txtam}>A filha das profundezas</h2>
       </div>
@@ -140,7 +140,7 @@ export default function Sagas() {
         <h2 className={styles.txtam}>Magnus Chase e os Deuses de Asgard</h2>
       </div>
 
-      <div className={styles.box}>
+      <div className={styles.box2}>
         <a href="https://drive.google.com/drive/folders/1DOI0h-F7M6cE0bfoqfoK5XLyShsHevsd?usp=sharing"><img src="https://m.media-amazon.com/images/I/91dDv9WOcFL._AC_UF1000,1000_QL80_.jpg" alt="" /></a>
         <h2 className={styles.txtam}>Sherlock Holmes</h2>
       </div>
@@ -156,7 +156,7 @@ export default function Sagas() {
 
     <div className={styles.rows}>
 
-    <div className={styles.box}>
+    <div className={styles.box2}>
         <a href="https://drive.google.com/drive/folders/1Eaf05xnaY-lRRZ6KH8n6bRNUfWTRGJPD?usp=sharing"><img src="https://images-americanas.b2w.io/produtos/113996211/imagens/livro-trono-de-vidro-vol-1/113996211_1_xlarge.jpg" alt="" /></a>
         <h2 className={styles.txtam}>Trono de Vidro</h2>
       </div>
@@ -181,7 +181,7 @@ export default function Sagas() {
         <h2 className={styles.txtam}>Aloísio de Azevedo</h2>
       </div>
 
-      <div className={styles.box}>
+      <div className={styles.box2}>
         <a href="https://drive.google.com/drive/folders/178H5fNEoq8kDKE2tD6kovlopa-aWuNLb?usp=sharing"><img src="https://www.academia.org.br/sites/default/files/academicos/fotografias/jose-de-alencar.jpg" alt="" /></a>
         <h2 className={styles.txtam}>José de Alencar</h2>
       </div>
@@ -192,7 +192,7 @@ export default function Sagas() {
       </div>
 
 
-      <div className={styles.box}>
+      <div className={styles.box2}>
         <a href="https://drive.google.com/file/d/15OcRhRQRiOqPQqkFfFhjZm9r8lcPPMm-/view?usp=sharing"><img src="https://upload.wikimedia.org/wikipedia/pt/9/95/Holocausto_Brasileiro.jpg" alt="" /></a>
         <h2 className={styles.txtam}>Holocausto Brasileiro</h2>
       </div>

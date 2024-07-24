@@ -1,123 +1,136 @@
 .livros {
 
-   display: inline-flex;
-   align-items: center;
-   margin: 30px;
-   gap: 20px;
-   color: var(--roxo--900);
-
-}
-.filmes {
-
     display: inline-flex;
     align-items: center;
     margin: 30px;
     gap: 20px;
-    color: var(--roxo--900);
+    color: whitesmoke;
  
  }
-
-.rows {
-
-    display: inline-flex;
-    align-items: center;
-    margin: 30px;
-    gap: 20px;
-    color: var(--roxo--900);
+ .filmes {
  
- }
-
-.livros2 {
-
-    display: inline-flex;
-    align-items: center;
-    margin: 30px;
-    gap: 20px;
-    color: var(--roxo--900);
+     display: inline-flex;
+     align-items: center;
+     margin: 30px;
+     gap: 20px;
+     color: whitesmoke;
+  
+  }
  
- }
-
-.txtam{
-
-    font-size: 15px;
-    font-family: 'roboto', arial, helvetica, sans-serif;
-    font-weight: 600;
-    color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding-left: 20px;
-    
-}
-
-
-.txtam2{
-
-    font-size: 15px;
-    font-family: 'roboto', arial, helvetica, sans-serif;
-    font-weight: 600;
-    color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-right: 40px;
-
-    
-}
-
-
-
-.box{
-
-    display: flex;
-    justify-content: space-between;
-    background-color: rgb(125, 64, 194) ;
-    width: 275px;
-    height: 200px;
-    border-radius: 8px;
-}
-
-.txt h2{
-    font-size: 15px;
-    font-family: 'roboto', arial, helvetica, sans-serif;
-    font-weight: 600;
-    color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-right: 40px;
-}
-
-h1{
-    background-color: var(--roxo--700);
-    color: white;
-}
-
-
-.filmesBarbie {
-
-    display: inline-flex;
-    align-items: center;
-    margin: 30px;
-    gap: 20px;
-    color: pink;
-    
+ .rows {
  
+     display: inline-flex;
+     align-items: center;
+     margin: 30px;
+     gap: 20px;
+     color: whitesmoke;
+  
+  }
+ 
+ .livros2 {
+ 
+     display: inline-flex;
+     align-items: center;
+     margin: 30px;
+     gap: 20px;
+     color: whitesmoke;
+  
+  }
+ 
+ .txtam{
+ 
+     font-size: 0.9375rem;
+     font-family: 'roboto', arial, helvetica, sans-serif;
+     font-weight: 600;
+     color: white;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     padding-left: 20px;
+     
  }
-
- .barbie{
-    background-color:deeppink !important;
-    color: white;
+ 
+ 
+ .txtam2{
+ 
+     font-size: 0.9375rem;
+     font-family: 'roboto', arial, helvetica, sans-serif;
+     font-weight: 600;
+     color: white;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin-right: 40px;
+ 
+     
  }
-
- .brb{
-    background-color: deeppink;
-    color: white;
-
+ 
+ 
+ 
+ .box{
+ 
+     display: flex;
+     justify-content: space-between;
+     background-color: #9ab5ef ;
+     width: 17.1875rem auto !important;
+     height: 12.5rem auto !important;
+     border-radius: 8px;
+     border: 2px solid white;
  }
-
- .barb2{
-    background-color: palevioletred;
-    object-fit: cover;
+ 
+ .box2{
+ 
+     display: flex;
+     justify-content: space-between;
+     background-color: #4c6ebe ;
+     width: 17.1875rem auto !important;
+     height: 12.5rem auto !important;
+     border-radius: 8px;
+     border-color: aliceblue;
+     border: 2px solid white;
  }
-
+ 
+ .txt h2{
+     font-size:  0.9375rem;
+     font-family: 'roboto', arial, helvetica, sans-serif;
+     font-weight: 600;
+     color: white;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin-right: 40px;
+ }
+ 
+ h1{
+     background-color: #4c6ebe;
+     color: white;
+ }
+ 
+ 
+ .filmesBarbie {
+ 
+     display: inline-flex;
+     align-items: center;
+     margin: 30px;
+     gap: 20px;
+     color: pink;
+     
+  
+  }
+ 
+  .barbie{
+     background-color:rgb(221, 172, 198) !important;
+     color: white;
+  }
+ 
+  .brb{
+     background-color:rgb(221, 172, 198);
+     color: white;
+ 
+  }
+ 
+  .barb2{
+     background-color: rgb(245, 223, 245);
+     object-fit: cover;
+  }
+ 

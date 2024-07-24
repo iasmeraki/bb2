@@ -7,7 +7,7 @@ export default function Filmes() {
       <div className={styles.filmes}>
 
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/drive/folders/0BxYfydc53aj7ZEdIMXplaXlxUG8?resourcekey=0-9mGR-V-0FVhVgaV_JteXQw&usp=sharing"><img src="https://br.web.img3.acsta.net/c_310_420/pictures/17/07/10/19/10/576841.jpg" alt="" /></a>
           <h2 className={styles.txtam}>Em Ritmo de Fuga </h2>
         </div>
@@ -17,7 +17,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}> Uma Odisséia no Espaço </h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/0B_JatFT_TpCKeTloSjVaeklCa0E/view?usp=sharing&resourcekey=0-hMAq2ikhN9RSThzvpVy7JA"><img src="https://br.web.img3.acsta.net/medias/nmedia/18/95/56/35/20414749.jpg" alt="" /></a>
           <h2 className={styles.txtam}>Santos e Soldados </h2>
         </div>
@@ -27,7 +27,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>Drácula - A História Nunca Contada </h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/0B3nSFjJ7JT6ibFVSWmZBd2xEeGc/view?usp=drive_link&resourcekey=0-qStiavfpWkjbLeDwOU7AGg"><img src="https://br.web.img3.acsta.net/pictures/15/07/21/20/26/495789.jpg" alt="" /></a>
           <h2 className={styles.txtam}> Invasores - Nenhum Sistema Está à Salvo </h2>
         </div>
@@ -51,7 +51,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>O Senhor dos Anéis - As Duas Torres</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/0BxLx_FbsboyuWU02ZmZkWWh5Q0E/view?usp=sharing&resourcekey=0-f3sc68GhsAaiL8GeVs1EHg"><img src="https://m.media-amazon.com/images/S/pv-target-images/cbca94fd14550794b6166e469d3c51b71d82c06d40e195cf15109fa35acd856c.jpg" alt="" /></a>
           <h2 className={styles.txtam}>Os Estagiários </h2>
         </div>
@@ -61,7 +61,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>Superbad - É Hoje</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1DbSna-1Zgc94bnthflnJKWLpzy-SpP_r/view?usp=sharing"><img src="https://br.web.img3.acsta.net/pictures/18/07/18/21/53/1348208.jpg" alt="" /></a>
           <h2 className={styles.txtam2}>A Freira</h2>
         </div>
@@ -71,7 +71,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>A Maldição Da Chorona</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1ot62walHydIpD472RFpWxw9Wp5IcIxE4/view?usp=sharing"><img src="https://m.media-amazon.com/images/M/MV5BMDNkODA5ZGQtODczOS00OTQxLThhMTItMjk0ZmNhMDM0YjNmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" alt="" /></a>
           <h2 className={styles.txtam2}> Dr. Dolittle </h2>
         </div>
@@ -84,7 +84,7 @@ export default function Filmes() {
       <div className={styles.filmes}>
 
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1q7ferlGcbBXwfeQmnM9tMyM_mSWZ3Vr9/view?usp=sharing"><img src="https://br.web.img3.acsta.net/medias/nmedia/18/97/14/18/20510774.jpg" alt="" /></a>
           <h2 className={styles.txtam}>Os estranhos</h2>
         </div>
@@ -94,7 +94,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>Adoraveis Mulheres</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://t.co/vQvGpv2Qrv"><img src="https://br.web.img2.acsta.net/medias/nmedia/18/91/05/37/20127443.jpg" alt="" /></a>
           <h2 className={styles.txtam2}>Toy Story 2</h2>
         </div>
@@ -104,7 +104,7 @@ export default function Filmes() {
           <h2 className={styles.txtam2}>Extraordinário</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/11rzXkdMPmCmvAKYCf_Yil4-_r-2K_yib/view?usp=sharing"><img src="https://br.web.img3.acsta.net/pictures/18/04/24/16/26/5909399.jpg" alt="" /></a>
           <h2 className={styles.txtam2}>Venom</h2>
         </div>
@@ -125,7 +125,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>Um Sonho possivel</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1SYBknJUVFyWU0oNS4k6MJB56WqaKUyjy/view?usp=sharing"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0_MvSHcDiNSIoDxVeCkmbXwlOVgciXY2nlw&s" alt="" /></a>
           <h2 className={styles.txtam}>Além Da Morte</h2>
         </div>
@@ -135,7 +135,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>Mary Shelley</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1WPG5lqs8ZtlHcAcE8GiIcAOsDgAfHRHW/view?usp=sharing"><img src="https://br.web.img3.acsta.net/pictures/18/04/12/20/25/5720930.jpg" alt="" /></a>
           <h2 className={styles.txtam}>Os Incríveis 2 </h2>
         </div>
@@ -145,7 +145,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>P.S. Eu te Amo</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1d-tGIEuCd91ZHfWPbIaA30mTqTyjdGnC/view?usp=sharing"><img src="https://br.web.img2.acsta.net/medias/nmedia/18/87/82/86/19961967.jpg" alt="" /></a>
           <h2 className={styles.txtam}>Monstros S.A</h2>
         </div>
@@ -159,7 +159,7 @@ export default function Filmes() {
 
       <div className={styles.filmes}>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1WgdRG92OIUf_MkLGtJKk1eaX_lW5dj7F/view?usp=sharing"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7ImchtrVwG_9Wbyq9LF-64mThoi70D_Go5A&s" alt="" /></a>
           <h2 className={styles.txtam2}>Logan</h2>
         </div>
@@ -169,7 +169,7 @@ export default function Filmes() {
           <h2 className={styles.txtam2}>Malévola</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1BxIfdS5Em7hgCin-fwVVFh0DBjVgCAqM/view?usp=sharing"><img src="https://lumiere-a.akamaihd.net/v1/images/p_dumbo_19753_7f6610fc.jpeg?region=0,0,540,810" alt="" /></a>
           <h2 className={styles.txtam2}>Dumbo</h2>
         </div>
@@ -179,7 +179,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>A Dama e o Vagabundo</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1aHVoN-kWxIvdQBi9a6OMSqXws7q674Cr/view?usp=sharing"><img src="https://play-lh.googleusercontent.com/wdMm7rZTtZSJ_xPE34SHAtIglukxQ5mbSGj5v2gL9HICLNvjgLH_4ldgEhjyiz1NqlMj" alt="" /></a>
           <h2 className={styles.txtam}>Moana</h2>
         </div>
@@ -201,7 +201,7 @@ export default function Filmes() {
           <h2 className={styles.txtam2}>Carros 2</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1EwnyjLJ7017KTC0S5B19ljNK-DjSPl0f/view?usp=sharing"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-wiVTDIyBTD2Sjsz_eFcB0amozrE1HPJqfw&s" alt="" /></a>
           <h2 className={styles.txtam2}>Carros 3</h2>
         </div>
@@ -211,7 +211,7 @@ export default function Filmes() {
           <h2 className={styles.txtam2}>Camp Rock </h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/0B93Yw95OzPW-Vkp1b0x1MndnT2M/view?usp=sharing&resourcekey=0-pLKCARbZTyldw9QwI9FHhg"><img src="https://m.media-amazon.com/images/M/MV5BNjI5ODI4NTc1MF5BMl5BanBnXkFtZTgwMDg3ODYzMjE@._V1_.jpg" alt="" /></a>
           <h2 className={styles.txtam}>High School Music 2</h2>
         </div>
@@ -221,7 +221,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>High School Music 3</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1vjLpVZtiybC6dQ18BbcQt3RuLLKTTtNk/view?usp=sharing"><img src="https://upload.wikimedia.org/wikipedia/pt/thumb/b/be/Parasite_poster.jpg/250px-Parasite_poster.jpg" alt="" /></a>
           <h2 className={styles.txtam}>Parasita</h2>
         </div>
@@ -232,7 +232,7 @@ export default function Filmes() {
 
       <div className={styles.filmes}>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1fL3Ed68lwXfoK57_HKynrhoHEHneYZsw/view?usp=sharing"><img src="https://br.web.img3.acsta.net/pictures/19/10/15/20/11/5125005.jpg" alt="" /></a>
           <h2 className={styles.txtam}>O Escandalo</h2>
         </div>
@@ -242,7 +242,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>Vidro</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1luybKPGPDkIV_eFLmTHUDeXeXOTaxEt4/view?usp=sharing"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOjCG1Rgd6YReGiqJr_hHmRnRVFLvLYUW7Mw&s" alt="" /></a>
           <h2 className={styles.txtam}>Sr E Sra Smith</h2>
         </div>
@@ -252,7 +252,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>Obsessiva</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1uMhaPdryQv-GtOnYBMtcocnDZTPkMzBn/view?usp=sharing"><img src="https://m.media-amazon.com/images/I/61Fo3CitEGL._AC_UF1000,1000_QL80_.jpg" alt="" /></a>
           <h2 className={styles.txtam}>A Menina Que Roubava Livros</h2>
         </div>
@@ -273,7 +273,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>Uma Vida Oculta</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1huLP7cuf98copp6fl-rSI0uzRgA-V4Yj/view?usp=sharing"><img src="https://images.justwatch.com/poster/178527846/s718/dangerous-lies.jpg" alt="" /></a>
           <h2 className={styles.txtam}>Mentiras Perigosas</h2>
         </div>
@@ -283,7 +283,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>Entre Facas e Segredos</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1fpZ7tCSh9ISt94zyVoK7IEp4xaZ2Xtj4/view?usp=sharing"><img src="https://www.cinehorror.com.br/imagens-posts/os-estranhos-cacada-noturna-2018_24-07-18_04-51-53_max.jpg" alt="" /></a>
           <h2 className={styles.txtam}>Os Estranhos - Caçada Noturna</h2>
         </div>
@@ -293,7 +293,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>Atividade Paranormal 4</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/0B3x9yBHhEBETd0h6OE5UdTM3QlU/view?usp=sharing&resourcekey=0-8vgM4yDchTY5qcbPQJxYHQ"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrTUIRbWAR12ibbdkpXCDt5OtMq0oeqLyV-g&s" alt="" /></a>
           <h2 className={styles.txtam}>La La Land</h2>
         </div>
@@ -304,7 +304,7 @@ export default function Filmes() {
 
       <div className={styles.filmes}>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/12cnRyPwcXDTbbU26MF7wXhz9cnotdEoX/view?usp=sharing"><img src="https://m.media-amazon.com/images/I/81mbcHKS84L._AC_UF1000,1000_QL80_.jpg" alt="" /></a>
           <h2 className={styles.txtam}>As Vantagens de ser Invisível</h2>
         </div>
@@ -314,7 +314,7 @@ export default function Filmes() {
           <h2 className={styles.txtam2}>Bacurau</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1vslg0UmMK68A2AROt7nnmqY540yUW--O/view?usp=sharing"><img src="https://upload.wikimedia.org/wikipedia/pt/7/7e/ScaryMovie4.jpg" alt="" /></a>
           <h2 className={styles.txtam}>Todo Mundo Em Pânico 4</h2>
         </div>
@@ -324,7 +324,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>Guerra Mundial Z</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1rl11Y3vS_XJso21coIp56IN01exFX-9J/view?usp=sharing"><img src="https://upload.wikimedia.org/wikipedia/pt/e/e0/Democracia_em_Vertigem.jpg" alt="" /></a>
           <h2 className={styles.txtam}>Democracia em Vertigem</h2>
         </div>
@@ -344,7 +344,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>o diabo veste prada</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1fLOWomJBO-QjmpkLNzKX7wQ-_m7g2RJW/view?usp=sharing"><img src="https://br.web.img3.acsta.net/pictures/19/08/06/21/50/5749668.jpg" alt="" /></a>
           <h2 className={styles.txtam}>era uma vez em... hollywood </h2>
         </div>
@@ -354,7 +354,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>Minha Mãe é uma Peça 3</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1s4pDJRWO7KmJPautCG0m2WRLzvErsPbw/view?usp=sharing"><img src="https://historiamilitaremdebate.com.br/wp-content/uploads/2021/11/A-10.jpg" alt="" /></a>
           <h2 className={styles.txtam}>1917</h2>
         </div>
@@ -364,7 +364,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>Jojo Rabbit</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1obj589cHFjEW-cIa6u-cDgGcQHHYc6Gs/view?usp=sharing"><img src="https://upload.wikimedia.org/wikipedia/pt/4/4f/Frozen_2_poster.jpg" alt="" /></a>
           <h2 className={styles.txtam}>Frozen 2</h2>
         </div>
@@ -377,7 +377,7 @@ export default function Filmes() {
 
       <div className={styles.filmes}>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/127dY1RSHczO1YvXYPMUoOnp3QbQjlTT8/view?usp=sharing"><img src="https://nerdissimos.wordpress.com/wp-content/uploads/2015/12/capa_a_5_onda_filme.jpg" alt="" /></a>
           <h2 className={styles.txtam}>A 5ª Onda </h2>
         </div>
@@ -387,7 +387,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>Esposa de Mentirinha</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1tITj7zx5BVY5HB791YadlCpRrgZG418S/view?usp=sharing"><img src="https://m.media-amazon.com/images/S/pv-target-images/78df755896cb49111997bf6c83cd5ef9d43802ba16361fd964a76c2da99a366e.jpg" alt="" /></a>
           <h2 className={styles.txtam}>Antes que eu vá</h2>
         </div>
@@ -397,7 +397,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>Simplesmente Acontece</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://t.co/Dx6cKlXEtQ"><img src="https://one-cinema.s3.sa-east-1.amazonaws.com/filmes/the-greatest-showman/26062020/342/capa-the-greatest-showman.jpg" alt="" /></a>
           <h2 className={styles.txtam}>O Rei do Show</h2>
         </div>
@@ -419,7 +419,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>Golpe Duplo</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1YX8pGsFAY1vrKu8rl96VdN8-vhpUQ2mY/view?usp=sharing"><img src="https://resizing.flixster.com/9ODoVhjL-2PIHUYBJNjve-_ZoUw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzY5NDI2ODEzLWNkYjAtNGM1YS04NDU0LTM0MzE4NDhmZGNiMS53ZWJw" alt="" /></a>
           <h2 className={styles.txtam}>After</h2>
         </div>
@@ -429,7 +429,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>O Colecionador de Corpos</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1IPui2nK_oit4hzehH-LQia1CMsEBytN4gg/view?usp=sharing"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ML7LLNbKlsfAYt5V2LCBRJOPZ0jBCGMRcw&s" alt="" /></a>
           <h2 className={styles.txtam}>Fragmentado</h2>
         </div>
@@ -439,7 +439,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>A Morte te dá Parabéns</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1x5YLvRIOu163TuQzFu5pz9mZUvrSm9JX/view?usp=sharing"><img src="https://br.web.img2.acsta.net/pictures/22/05/16/17/59/5165498.jpg" alt="" /></a>
           <h2 className={styles.txtam}>Tudo em Todo o Lugar ao Mesmo Tempo </h2>
         </div>
@@ -451,7 +451,7 @@ export default function Filmes() {
 
       <div className={styles.filmes}>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/14vhz7DfnmzTtA5egZqpMxm-cMr62mXaj/view?usp=sharing"><img src="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/79/16/19961587.jpg" alt="" /></a>
           <h2 className={styles.txtam}>Coraline e o Mundo Secreto</h2>
         </div>
@@ -461,7 +461,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>Oito Mulheres e um Segredo</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1iEXh5s2vkgQ3WZD3ehGWca6eRaIMpUUj/view?usp=sharing"><img src="https://upload.wikimedia.org/wikipedia/pt/thumb/d/db/Brave_Teaser_Poster.jpg/240px-Brave_Teaser_Poster.jpg" alt="" /></a>
           <h2 className={styles.txtam}>Valente</h2>
         </div>
@@ -471,7 +471,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>O Farol</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1pZLHS1DuCkG3PxaSV8FDcZTfcONNq7pU/view?usp=sharing"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI9Hts-lMH5Fc6hAhNHgh2k6w9Bi40F2ahAQ&s" alt="" /></a>
           <h2 className={styles.txtam}>Me Chame pelo seu nome</h2>
         </div>
@@ -493,7 +493,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>a fantastica fabrica de chocolate</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1PQyNrOAjvs49ElUqVy3rdk7wRAGN8es6/view?usp=sharing"><img src="https://upload.wikimedia.org/wikipedia/pt/6/68/Poster-turma-da-monica-lacos.jpg" alt="" /></a>
           <h2 className={styles.txtam}>Turma da Mônica - Laços</h2>
         </div>
@@ -503,7 +503,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>O Quarto Do Pânico</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/17BiIpFEwkSUlM9apVMb2Mxl3Lv2Jrd84/view?usp=sharing"><img src="https://media.fstatic.com/r-4jBZGrEbcObu1tmS-tva-cryg=/322x478/smart/filters:format(webp)/media/movies/covers/2023/11/images.jpg" alt="" /></a>
           <h2 className={styles.txtam}>16 Desejos </h2>
         </div>
@@ -513,7 +513,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>Edward Maos de Tesoura</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1ORfjS24cJYb635jIcEKAZ047EIotmpti/view?usp=sharing"><img src="https://cinema10.com.br/upload/filmes/filmes_5942_Julieta.jpg" alt="" /></a>
           <h2 className={styles.txtam}>Romeu e Julieta</h2>
         </div>
@@ -525,7 +525,7 @@ export default function Filmes() {
 
       <div className={styles.filmes}>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1L5MIR-vAP2NSGFgf-AE82NtIyg_1l8od/view?usp=sharing"><img src="https://m.media-amazon.com/images/S/pv-target-images/9c783b4ca4194e740ddc40b75db6f813af3e448cf42c0f2d53bcad41645402ee.jpg" alt="" /></a>
           <h2 className={styles.txtam}>Zathura - Uma Aventura Espacial</h2>
         </div>
@@ -535,7 +535,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>Imagine Eu & Você</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/0B8waEK7X5JP7Z1FBbDNLVDNsTTg/view?usp=sharing&resourcekey=0-qdFLhP6TOqOJNL9KaPOnEQ"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgm6-UdseH6Ge2hyOQ6psrWiFiv3dsZxyCwg&s" alt="" /></a>
           <h2 className={styles.txtam}>eu sou o numero 4</h2>
         </div>
@@ -545,7 +545,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>Como se Fosse a Primeira Vez</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/19uC8NjnRWu4Oaa56_fVj2pRxgZEz1PbP/view?usp=sharing"><img src="https://media.fstatic.com/gWkrMDJfsNNxxkvD0dyf-Y_7T6Q=/322x478/smart/filters:format(webp)/media/movies/covers/2019/08/MV5BNTQyMDQwYTUtMDdlMC00YTczLTk2NDktZDRjZDEyZjJmNGQzXkEyXkFqcGdeQX_I6V0ImJ.jpg" alt="" /></a>
           <h2 className={styles.txtam}>Your Name</h2>
         </div>
@@ -566,7 +566,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>O Serviço de Entregas da Kiki </h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1JtrNrvflE_3ExShzhqiKDR6h2HWtxZQq/view?usp=sharing"><img src="https://odiariodeumcontadordehistorias.wordpress.com/wp-content/uploads/2017/05/howls-moving-castle.jpeg" alt="" /></a>
           <h2 className={styles.txtam}>O Castelo Animado</h2>
         </div>
@@ -576,7 +576,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>Ponyo</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1p9XPVt_3XcrMHoHeeMDjD6Vaii1UO3Hn/view?usp=sharing"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJZey3FKTAbQ3gJBaDP-IBLXCdhpzQ5Q8DOg&s" alt="" /></a>
           <h2 className={styles.txtam}>A Viagem de Chihiro</h2>
         </div>
@@ -586,7 +586,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>A Noiva Cadaver</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1-nl3lkE4rpTmHDMlYQ8iDCXJcFgLH824/view?usp=sharing"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLl8MA0c1QxzsQoZdby1xvqT2MnoInipNFuZ6szjL_5Bbzn-h-NYdMbhgJtA4teNTjgZ3crvrX_kSXkQrMpxnllLIkbPm66Sji84GegvVwJztoG83UVgOoSscAystPv55aG2TFUs8xkbqP/s1600/O-Estranho-Mundo-de-Jack.jpg" alt="" /></a>
           <h2 className={styles.txtam}>O Estranho Mundo de Jack</h2>
         </div>
@@ -601,7 +601,7 @@ export default function Filmes() {
       <div className={styles.filmes}>
 
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1sMTemXfpBJVA6gXbvWCQTvxTsA-LAbt8/view?usp=sharing"><img src="https://upload.wikimedia.org/wikipedia/pt/4/4b/Onward_Poster.jpg" alt="" /></a>
           <h2 className={styles.txtam}>Dois Irmãos</h2>
         </div>
@@ -611,7 +611,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>Ratatouille</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1oTn6HXod8EHS5JlBibnhjPSrqVhgNwjV/view?usp=sharing"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIWigkeYUGBJ7twjUv9QJAk8MEfshafYgfvQ&s" alt="" /></a>
           <h2 className={styles.txtam}>Homem-Aranha No Aranhaverso </h2>
         </div>
@@ -621,7 +621,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>Sonic</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1vwEEIqwbg0Gpim320B5ujMIMAhiwZcMU/view?usp=sharing"><img src="https://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/87/32/75/19874355.jpg" alt="" /></a>
           <h2 className={styles.txtam}>Gigantes De Aço</h2>
         </div>
@@ -643,7 +643,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>Procurando Nemo</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1HeL2inKqssN-qraplDGcupoKcuc7uDFN/view?usp=sharing"><img src="https://upload.wikimedia.org/wikipedia/pt/2/22/Titanic_poster.jpg" alt="" /></a>
           <h2 className={styles.txtam}>Titanic</h2>
         </div>
@@ -653,7 +653,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>Deu A Louca Na Chapeuzinho</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1SdJFXsH-0HB7s7coTY1p_KDr4NDNVQQv/view?usp=sharing"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLsCSI04mpF5T2XS7HWGGNIfOo49jmNtdmxQ&s" alt="" /></a>
           <h2 className={styles.txtam}>Tá Dando Onda </h2>
         </div>
@@ -663,7 +663,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>A Casa Monstro</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1abkKtm9MvEloFyU89MoTbNxZ6C9I2xfk/view?usp=sharing"><img src="https://br.web.img3.acsta.net/medias/nmedia/18/90/67/52/20107757.jpg" alt="" /></a>
           <h2 className={styles.txtam}>10 Coisas Que Eu Odeio Em Você </h2>
         </div>
@@ -675,7 +675,7 @@ export default function Filmes() {
 
       <div className={styles.filmes}>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1b-BAt9-id4PTjIsZag2U8MTQv1CgInmL/view?usp=sharing"><img src="https://br.web.img3.acsta.net/c_310_420/pictures/15/06/12/22/24/075964.jpg" alt="" /></a>
           <h2 className={styles.txtam}>Amor de aluguel</h2>
         </div>
@@ -685,7 +685,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>Given The Movie</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://t.co/UvgDRy4iJL"><img src="https://m.media-amazon.com/images/I/61Folknh5XL._AC_UF1000,1000_QL80_.jpg" alt="" /></a>
           <h2 className={styles.txtam}>Doukyuusei </h2>
         </div>
@@ -695,7 +695,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>Wifi Ralph</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1oDluikr_hvEtmOrQx84f-_BX1Bdw3w-X/view?usp=sharing"><img src="https://m.media-amazon.com/images/I/71eeHZMVLcL._AC_UF894,1000_QL80_.jpg" alt="" /></a>
           <h2 className={styles.txtam}>O Galinho Chicken Little</h2>
         </div>
@@ -715,7 +715,7 @@ export default function Filmes() {
         <h2 className={styles.txtam}>O Fanático</h2>
       </div>
 
-      <div className={styles.box}>
+      <div className={styles.box2}>
         <a href="https://drive.google.com/file/d/1CsiL6E06D71GQ3XlWEHamomnmnaysKdZ/view?usp=sharing"><img src="https://br.web.img2.acsta.net/medias/nmedia/18/87/34/53/19874535.jpg" alt="" /></a>
         <h2 className={styles.txtam}>O Assassino a preço fixo</h2>
       </div>
@@ -725,7 +725,7 @@ export default function Filmes() {
         <h2 className={styles.txtam}>O Lorax</h2>
       </div>
 
-      <div className={styles.box}>
+      <div className={styles.box2}>
         <a href="https://drive.google.com/file/d/1VIaJ8UgoAJkIBtjtLjm1WIXJ0kFbLfAK/view?usp=sharing"><img src="https://upload.wikimedia.org/wikipedia/pt/7/76/Monsters-vs-aliens-poster.jpg" alt="" /></a>
         <h2 className={styles.txtam}>Monstros Vs. Alienígenas </h2>
       </div>
@@ -735,7 +735,7 @@ export default function Filmes() {
         <h2 className={styles.txtam2}>FormiguinhaZ </h2>
       </div>
 
-      <div className={styles.box}>
+      <div className={styles.box2}>
         <a href="https://drive.google.com/file/d/1Y3-Luweumbb_j8xFGUkUSPaNHNtfYTl1/view?usp=sharing"><img src="https://upload.wikimedia.org/wikipedia/pt/3/33/A_Fuga_das_Galinhas.jpg" alt="" /></a>
         <h2 className={styles.txtam}>A Fuga das Galinhas</h2>
       </div>
@@ -748,7 +748,7 @@ export default function Filmes() {
 
       <div className={styles.filmes}>
 
-      <div className={styles.box}>
+      <div className={styles.box2}>
         <a href="https://t.co/bf6G46mNwk"><img src="https://pbs.twimg.com/media/FhJWyPLWQAQautj.jpg" alt="" /></a>
         <h2 className={styles.txtam}>1 - Uma aventura no reino das fadas</h2>
       </div>
@@ -758,7 +758,7 @@ export default function Filmes() {
         <h2 className={styles.txtam}>2 - O tesouro Perdido</h2>
       </div>
 
-      <div className={styles.box}>
+      <div className={styles.box2}>
         <a href="https://t.co/iHqo9hHmeg"><img src="https://br.web.img3.acsta.net/medias/nmedia/18/92/75/22/20215597.jpg" alt="" /></a>
         <h2 className={styles.txtam}>3- O resgate da Fada</h2>
       </div>
@@ -768,7 +768,7 @@ export default function Filmes() {
         <h2 className={styles.txtam}>4 -O segredo das fadas</h2>
       </div>
 
-      <div className={styles.box}>
+      <div className={styles.box2}>
         <a href="https://t.co/dKmZIMZDUF"><img src="https://br.web.img3.acsta.net/pictures/14/03/08/08/38/108604.jpg" alt="" /></a>
         <h2 className={styles.txtam}>5 - Fadas e Piratas</h2>
       </div>
@@ -791,7 +791,7 @@ export default function Filmes() {
         <h2 className={styles.txtam}>Os Pinguins de Madagascar </h2>
       </div>
 
-      <div className={styles.box}>
+      <div className={styles.box2}>
         <a href="https://drive.google.com/file/d/1VnC7qSxnL-y-04q_snxUniyzz9AsLPP-/view?usp=sharing"><img src="https://br.web.img2.acsta.net/medias/nmedia/18/91/54/02/20150796.jpg" alt="" /></a>
         <h2 className={styles.txtam}>Madagascar </h2>
       </div>
@@ -801,7 +801,7 @@ export default function Filmes() {
         <h2 className={styles.txtam}>Madagascar 2</h2>
       </div>
 
-      <div className={styles.box}>
+      <div className={styles.box2}>
         <a href="https://drive.google.com/file/d/1VxzEoBQdOyDDXzMOXmPHoz9Ic4waBMch/view?usp=sharing"><img src="https://m.media-amazon.com/images/S/pv-target-images/b20194ffd23b531fd4786086bc6c5e43d64afba44b8877a6a935a767eff896c5.jpg" alt="" /></a>
         <h2 className={styles.txtam}>Madagascar 3</h2>
       </div>
@@ -811,7 +811,7 @@ export default function Filmes() {
       <h1>Como Treinar o Seu Dragão</h1>
       <div className={styles.filmes}>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1vB6AVXPPOS8Qgadu0Pmwd8XVM6PFLAbB/view?usp=sharing"><img src="https://upload.wikimedia.org/wikipedia/pt/0/0b/How_to_Train_Your_Dragon_3_poster.jpg" alt="" /></a>
           <h2 className={styles.txtam2}>1</h2>
         </div>
@@ -821,7 +821,7 @@ export default function Filmes() {
           <h2 className={styles.txtam2}>2</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://br.web.img2.acsta.net/pictures/14/05/27/21/27/291561.jpg"><img src="https://br.web.img3.acsta.net/pictures/18/11/13/12/10/5661398.jpg" alt="" /></a>
           <h2 className={styles.txtam2}>3</h2>
         </div>
@@ -841,7 +841,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>Homem-Aranha (2002) </h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1-G8oArmIWMBSNPl_wCQJMjkDbBZxcj62/view?usp=sharing"><img src="https://br.web.img3.acsta.net/c_310_420/pictures/210/544/21054460_2013103118041242.jpg" alt="" /></a>
           <h2 className={styles.txtam}>Homem-Aranha 2 (2004) </h2>
         </div>
@@ -851,7 +851,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>Homem-Aranha 3 (2007)</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1yO8e8zFb3poHBZ7RGrbbXZWmib8Xz0xL/view?usp=sharing"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl-DsehfoU45VdX_CySainPs_t2mpYw_leRQ&s" alt="" /></a>
           <h2 className={styles.txtam}>O Espetacular Homem-Aranha(2012) </h2>
         </div>
@@ -861,7 +861,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>O Espetacular Homem-Aranha 2 - A Ameaça De Electro (2014)</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1W2r4WnajcJR3Vwbz1q2yzwmCgt3WANlu/view?usp=sharing"><img src="https://br.web.img2.acsta.net/pictures/19/07/05/17/30/5167951.jpg" alt="" /></a>
           <h2 className={styles.txtam}>Homem-Aranha 2 - Longe De Casa (2019)</h2>
         </div>
@@ -877,7 +877,7 @@ export default function Filmes() {
       <h1>Harry Potter</h1>
       <div className={styles.filmes}>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/144vcdiGLbR8T24DDt_W2OQNY-WECZYIW/view?usp=sharing"><img src="https://img.elo7.com.br/product/main/2657A44/big-poster-harry-potter-e-a-pedra-filosofal-lo03-90x60-cm-poster.jpg" alt="" /></a>
           <h2 className={styles.txtam}>e a Pedra Filosofal</h2>
         </div>
@@ -887,7 +887,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>e a Câmara Secreta</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1O1hpdi2ql2X6XN-rsmt8ddIEy1iM5FMw/view?usp=sharing"><img src="https://a-static.mlcdn.com.br/450x450/dvd-harry-potter-e-o-prisioneiro-de-azkaban/videoimpacto/606892/7c6b0cf4e77df1b533ab792a717fda0c.jpeg" alt="" /></a>
           <h2 className={styles.txtam}>e o Prisioneiro de Azkaban</h2>
         </div>
@@ -897,7 +897,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}> e o Calice de Fogo</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/19OXPYaP9yCvblvKJ9KeZe2v3AERvn4M2/view?usp=sharing"><img src="https://images.justwatch.com/poster/120830237/s718/harry-potter-e-a-ordem-da-fenix.jpg" alt="" /></a>
           <h2 className={styles.txtam}>e a Ordem da Fenix</h2>
         </div>
@@ -916,7 +916,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}> Relíquias da Morte - part.1</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1-1XlglxFRkAAg12FKneZVJfeasPXxlzU/view?usp=sharing"><img src="https://s3.amazonaws.com/img.iluria.com/product/90B164/16FAEEF/450xN.jpg" alt="" /></a>
           <h2 className={styles.txtam}> Relíquias da Morte - part.2</h2>
         </div>
@@ -930,7 +930,7 @@ export default function Filmes() {
       <h1>As Crônicas de Nárnia</h1>
       <div className={styles.filmes}>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/file/d/1OaYXDM0-Y1eKfq-B3CLo2jw9F9RHekPG/view?usp=sharing"><img src="https://veja.abril.com.br/wp-content/uploads/2016/06/filmes-bestseller-08-original1.jpeg?quality=90&strip=info" alt="" /></a>
           <h2 className={styles.txtam}>O Leão, a Feiticeira e o Guarda-roupa</h2>
         </div>
@@ -940,7 +940,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>Príncipe Caspian</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://t.co/zlG9BTXD0H"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYbm9l8Wgd_P54zsp3C0L0lgqvXsPXsxvAFw&s" alt="" /></a>
           <h2 className={styles.txtam}>O Peregrino da Alvorada</h2>
         </div>
@@ -960,7 +960,7 @@ export default function Filmes() {
           <h2 className={styles.txtam2}>1</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/drive/folders/1-3QR02jrwHyCWUh0Z017ioG9E66998Kk?usp=drive_link"><img src="https://br.web.img3.acsta.net/medias/nmedia/18/90/37/63/20093733.jpg" alt="" /></a>
           <h2 className={styles.txtam2}>2</h2>
         </div>
@@ -970,7 +970,7 @@ export default function Filmes() {
           <h2 className={styles.txtam2}>3</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/drive/folders/1-Asy1b8v6E--dzeRrpMsc_bxhXDlxyxB?usp=drive_link"><img src="https://m.media-amazon.com/images/S/pv-target-images/e8373cea65e327a1ae75c9c63661b230f2d847b4be5834c8ab81fcabaee355dc.jpg" alt="" /></a>
           <h2 className={styles.txtam2}>4</h2>
         </div>
@@ -980,7 +980,7 @@ export default function Filmes() {
           <h2 className={styles.txtam2}>5</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/drive/folders/1-DbDpjgWiIhhcmT-QIiwGY-NUxCDMtH5?usp=drive_link"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmz8EAq4NWpbmI-oE6ta_ebj9K-w7wHC0lBA&s" alt="" /></a>
           <h2 className={styles.txtam2}>6</h2>
         </div>
@@ -1203,7 +1203,7 @@ export default function Filmes() {
       <h1>Séries</h1>
       <div className={styles.filmes}>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/drive/folders/1NQLZZUhLVrXFNh2m1BIXgyqC-fLx9hh-?usp=sharing"><img src="https://upload.wikimedia.org/wikipedia/pt/b/b4/This_Is_Us_Temporada_1_Poster.jpg" alt="" /></a>
           <h2 className={styles.txtam}>This is Us 1ª Temporada</h2>
         </div>
@@ -1213,7 +1213,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>13 Reasons Why - 1 e 2ª Temporada</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/drive/folders/13fmmSSWlP3NAvGu7LVDnyWFqPqbTbvlN?usp=sharing"><img src="https://images.justwatch.com/poster/201762534/s592/temporada-1" alt="" /></a>
           <h2 className={styles.txtam}>Os Feiticeiros de Waverly Place 1 Temporada</h2>
         </div>
@@ -1223,7 +1223,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>Sunny entre estrelas</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://t.co/lcIMInO0o3"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyms5TL2d1z2hU12l_kKwgrKJoKijV5TlSHQ&s" alt="" /></a>
           <h2 className={styles.txtam}>As visões da Raven (1ª até 4ª) / A casa da Raven (1ª até 3ª)</h2>
         </div>
@@ -1252,7 +1252,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>High School Musical - the musical and the series </h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/drive/folders/1aI9yQFAF5TPWTTF455UJamd6AeDEz5cD?usp=sharing"><img src="https://images.justwatch.com/poster/242800648/s718/temporada-1.jpg" alt="" /></a>
           <h2 className={styles.txtam}>Prison Break 1 Temporada</h2>
         </div>
@@ -1262,7 +1262,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>Prison Break 2 Temporada</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/drive/folders/1e-xwuJGc1cDmA5sF3ccQD7DdQLL9v8l2?usp=sharing"><img src="https://m.media-amazon.com/images/I/61SKt+RzsOL._AC_UF894,1000_QL80_.jpg" alt="" /></a>
           <h2 className={styles.txtam}>Prison Break 3 Temporada</h2>
         </div>
@@ -1272,7 +1272,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>Prison Break 4 Temporada</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/drive/folders/1XTk88oKpaFoZJwE5YSM_Or3cXmdt60_E?usp=sharing"><img src="https://images.justwatch.com/poster/38275120/s592/temporada-1" alt="" /></a>
           <h2 className={styles.txtam}>Teen Wolf 1° Temporada</h2>
         </div>
@@ -1287,7 +1287,7 @@ export default function Filmes() {
 
       <div className={styles.filmes}>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/drive/folders/1Q2e_SBjyka_LJax9nbD5v02wXWLZ5edi?usp=sharing"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQJJNwYV2q_e-qRH550oldNs1RTDfLsJJCXw&s" alt="" /></a>
           <h2 className={styles.txtam}>Sex Education 1 e 2ª Temporada</h2>
         </div>
@@ -1297,7 +1297,7 @@ export default function Filmes() {
           <h2 className={styles.txtam2}>Brooklyn Nine-Nine - 1 e 2ªTemporada</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/drive/folders/11yirNG5JWKvSB2tiiweYNcpi2-Gp5Moi?usp=sharing"><img src="https://media.fstatic.com/M2RNXHxrUokFy93UzziQymvlq3g=/322x478/smart/filters:format(webp)/media/movies/covers/2018/09/b686425d33b7e9626fe5b766ecef21bd798fcd19.jpg" alt="" /></a>
           <h2 className={styles.txtam2}>Atypical 1 e 2ªTemporada</h2>
         </div>
@@ -1307,7 +1307,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>Glee 1° Temporada</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/drive/folders/1tXWJ2tsI0TlhLp3ra7o0bEqnBRPDTDbB?usp=sharing"><img src="https://images.justwatch.com/poster/168528825/s592/temporada-1" alt="" /></a>
           <h2 className={styles.txtam}>Luna Negra 1ª Temporada</h2>
         </div>
@@ -1329,7 +1329,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>Dark - 1ª temporada</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/drive/folders/1ZV0ucTLE4pHQ5cHHx-um9pRoiioDt3tl?usp=sharing"><img src="https://br.web.img3.acsta.net/pictures/18/04/27/18/21/4390153.jpg" alt="" /></a>
           <h2 className={styles.txtam}>Pose - Temporada 2</h2>
         </div>
@@ -1339,7 +1339,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>Dinastia - Temporada 1</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/drive/folders/1C3umY6yEAf8xhshMdYs5VN8LJRd1nev_?usp=sharing"><img src="https://br.web.img2.acsta.net/pictures/19/11/12/09/11/1193498.jpg" alt="" /></a>
           <h2 className={styles.txtam}>You - Temporada 2</h2>
         </div>
@@ -1349,7 +1349,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>Fear The Walking Dead 1ª Temporada</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/drive/folders/1vlUoR8vFaVeMcmU-jDmvLv9eR8Pcokqq?usp=sharing"><img src="https://br.web.img3.acsta.net/pictures/20/02/06/10/00/0445818.jpg" alt="" /></a>
           <h2 className={styles.txtam}>Não Fale com Estranhos - Temporada 1</h2>
         </div>
@@ -1358,7 +1358,7 @@ export default function Filmes() {
 
       <div className={styles.filmes}>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/drive/folders/11PypXzk8TGhZ5pDGZI8fHOYdZ44G7xSl?usp=sharing"><img src="https://miro.medium.com/v2/resize:fit:600/1*WwPFgrw9ZjW_eMtbztAoZg@2x.jpeg" alt="" /></a>
           <h2 className={styles.txtam}>Anne With An E - Temporada 3</h2>
         </div>
@@ -1368,7 +1368,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>Vis a Vis - 2ª temporada</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/drive/folders/1-nm4o3SVzHhoH2Q0yP_vrI-KSIidz5vv?usp=sharing"><img src="https://br.web.img2.acsta.net/pictures/22/09/23/20/14/0505071.jpg" alt="" /></a>
           <h2 className={styles.txtam}>Wandinha</h2>
         </div>
@@ -1378,7 +1378,7 @@ export default function Filmes() {
           <h2 className={styles.txtam}>American Horror Story</h2>
         </div>
 
-        <div className={styles.box}>
+        <div className={styles.box2}>
           <a href="https://drive.google.com/drive/folders/17HXLPflMvGPnBNjscsCOEZm1_YsQ_hcW?usp=sharing"><img src="https://br.web.img3.acsta.net/pictures/21/01/05/02/43/5988956.jpg" alt="" /></a>
           <h2 className={styles.txtam}>Violetta</h2>
         </div>

@@ -1,13 +1,16 @@
 
 .header{
-    background-color: var(--roxo--800);
+    background-color:#6686ce ;
     display: flex;
+    max-width: 100%;
+    min-width: 100%;
     justify-content: center;
     align-items: center;
     gap:30px  ;
     padding: 1rem;
-    width: 100%;
-    z-index: 100;
+    border-radius: 70px;
+    margin-top: 20px;
+    border: 2px dashed whitesmoke;
 
 }
 
@@ -15,15 +18,16 @@
 .menu {
 
     display: flex;
+    align-items: center;
     list-style: none;
-    gap: 8rem;
+    gap: 10rem;
 
 }
 
 .imgHeader{
 
-    width: 100px;
-    height: 90px;
+    width: 6.25rem ;
+    height: 5.625rem ;
     border-radius: 50%;
 
 }
@@ -31,12 +35,12 @@
 
 .neomorphbtn{
 
-    background-color: var(--roxo--300);
-    border-radius: 30px;
-    box-shadow: 7px 7px 15px #481d50, 
-    -7px -7px 15px #713a7c;
-    color: #8a0097;
-    font-size: 13px;
+    background-color: #38569c;
+    border-radius: 1.875rem ;
+    box-shadow: 0.4375rem 0.4375rem 0.9375rem #38569c , 
+    -0.4375rem -0.4375rem 0.9375rem #38569c;
+    color: whitesmoke;
+    font-size: 0.8125rem;
     font-weight: bold;
     font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     text-transform: uppercase; 
@@ -45,38 +49,23 @@
     border: none;
     outline: none;
     cursor: pointer;
-    padding: 15px 30px;
-    margin: 0 10px;
+    padding: 15px 30px ;
+    margin: 0 10px ;
 
 
 }
 
 .neomorphbtn:hover{
 
-    box-shadow: inset 7px 7px 15px #e6d3ff;
-    inset: -7px -7px  15px #ffffff;
+    box-shadow: inset 0.4375rem 0.4375rem 0.9375rem #6b89cf;
+    inset: -0.4375rem -0.4375rem 0.9375rem #ffffff;
 
 }
 
 .neomorphbtn:active{
 
-      box-shadow: 3px 3px 6pc #bebebe;
-      inset: -3px -3px 6px #ffffff;
-      color: #b45a5a;
+      box-shadow: 0.1875rem 0.1875rem 0.375rem #bebebe;
+      inset: -0.1875rem -0.1875rem 0.375rem #ffffff;
+      
 
-}
-
-@media only screen and (max-width:450px) {
-    .menu {
-        gap: 1rem;
-        transition: 0.5s;
-    }
-    .header{
-        width: 1350px;
-    }
-    .imgHeader{
-        transition: 0.5s;
-        width:50px;
-        height: 40px;
-    }
 }

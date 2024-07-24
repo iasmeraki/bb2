@@ -20,14 +20,6 @@
     --roxo--200: #ef9af7;
     --roxo--100: #ffb3ff;
 
-    /* cinzas */
-
-    --cinza--900: #3c3c3c ;
-    --cinza--800: #515151;
-    --cinza--700: #666666;
-    --cinza--600: #8c8c8c;
-    --cinza--500: #b5b5b5;
-
 }
 *{
     margin: 0;
@@ -37,17 +29,14 @@
 
 body {
     color: var(--roxo--700);
-    background-color: var(--roxo--100);
+    background-color:  #b4cdff;
     
 
 }
 
 img{
   
-     height: 200px;
-     width: 170px;
+     height: 12.5rem;
+     width: 10.625rem;
 
 }
-@media only screen and (max-width: 600px) {
-
-  }
