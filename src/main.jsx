@@ -5,6 +5,7 @@ import { BrowserRouter } from 'react-router-dom'
 
 
 
+// Renderizando o componente App na página HTML
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <BrowserRouter>
